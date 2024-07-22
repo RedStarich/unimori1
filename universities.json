@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "name": "Kazakh National University",
+      "location": "Almaty",
+      "description": "The largest and one of the oldest universities in Kazakhstan.",
+      "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knu.png",
+      "website_url": "https://www.kaznu.kz",
+      "established_year": 1934,
+      "type": "Public",
+      "ranking": 1,
+      "tuition_fees": 1000,
+      "acceptance_rate": 75,
+      "contact_email": "info@kaznu.kz",
+      "contact_phone": "+7-727-377-3333"
+    },
+    {
+      "id": "2",
+      "name": "Nazarbayev University",
+      "location": "Nur-Sultan",
+      "description": "A modern and research-oriented university.",
+      "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/nu.png",
+      "website_url": "https://www.nu.edu.kz",
+      "established_year": 2010,
+      "type": "Public",
+      "ranking": 2,
+      "tuition_fees": 1200,
+      "acceptance_rate": 65,
+      "contact_email": "info@nu.edu.kz",
+      "contact_phone": "+7-717-270-5555"
+    }
+  ]
+  
