@@ -1,3 +1,6 @@
+'use client';
+
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
 interface University {
@@ -18,6 +21,7 @@ interface University {
 
 const UniversitiesList: React.FC = () => {
   const [universities, setUniversities] = useState<University[]>([]);
+  const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
@@ -28,17 +32,32 @@ const UniversitiesList: React.FC = () => {
           throw new Error('Failed to fetch universities');
         }
         const data = await res.json();
-        setUniversities(data.universities);
+        console.log('Fetched data:', data); // Добавьте лог для проверки данных
+        if (data && Array.isArray(data.universities)) {
+          setUniversities(data.universities);
+        } else {
+          throw new Error('Invalid data format');
+        }
       } catch (err) {
         setError((err as any).message);
+      } finally {
+        setLoading(false);
       }
     };
 
     fetchUniversities();
   }, []);
 
+  if (loading) {
+    return <div>Loading...</div>;
+  }
+
   if (error) {
     return <div className="text-red-500">Error: {error}</div>;
+  }
+
+  if (!universities.length) {
+    return <div>No universities found.</div>;
   }
 
   return (
@@ -49,14 +68,7 @@ const UniversitiesList: React.FC = () => {
           <li key={uni.id} className="bg-white shadow rounded p-4">
             <h3 className="text-xl font-semibold">{uni.name}</h3>
             <p className="text-gray-700">{uni.description}</p>
-            <a
-              href={uni.website_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-500 hover:underline mt-2 block"
-            >
-              Visit website
-            </a>
+            <Link href={`/uni-list/${uni.id}`}>visit</Link>
           </li>
         ))}
       </ul>

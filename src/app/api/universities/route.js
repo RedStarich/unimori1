@@ -1,24 +1,35 @@
-require('dotenv').config();
-import { NextResponse } from 'next/server';
-import s3 from '../../../../lib/aws';
+import { getSignedUrl } from '../../../../lib/aws';
 
-export async function GET() {
-  console.log('S3_BUCKET_NAME:', process.env.S3_BUCKET_NAME); // Добавьте это для проверки
-  const params = {
-    Bucket: process.env.S3_BUCKET_NAME,
-    Key: 'universities.json',
-  };
+export async function GET(req) {
+  const key = 'universities.json'; // Укажите путь к вашему файлу в S3, без префикса s3://
+  const signedUrl = getSignedUrl(key);
 
   try {
-    if (!params.Bucket) {
-      throw new Error('Bucket name is not defined');
+    const response = await fetch(signedUrl);
+    if (!response.ok) {
+      throw new Error('Failed to fetch data from S3');
     }
-    console.log(`Trying to fetch object from S3 with params: ${JSON.stringify(params)}`);
-    const data = await s3.getObject(params).promise();
-    const universities = JSON.parse(data.Body.toString('utf-8'));
-    return NextResponse.json({ universities });
+    const data = await response.json();
+    console.log('Data from S3:', data); // Лог данных из S3
+
+    if (Array.isArray(data)) {
+      return new Response(JSON.stringify({ universities: data }), {
+        status: 200,
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+    } else {
+      console.log('Invalid data format:', data);
+      throw new Error('Invalid data format');
+    }
   } catch (err) {
-    console.error('Error getting universities:', err);
-    return NextResponse.json({ error: 'Error getting universities' }, { status: 500 });
+    console.error('Error fetching data:', err.message);
+    return new Response(JSON.stringify({ error: err.message }), {
+      status: 500,
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    });
   }
 }
