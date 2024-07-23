@@ -2,7 +2,7 @@
 import { useParams } from 'next/navigation';
 
 const UniDetail: React.FC = () => {
-  const params = useParams();
+  const params = useParams() as { uniId: string };  // Type assertion
   const { uniId } = params;
 
   return (
