@@ -1,10 +1,10 @@
 'use client';
 
-import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import Link from 'next/link';
 
 interface University {
-  id: string;
+  _id: string; // Изменено на _id, так как MongoDB использует _id
   name: string;
   location: string;
   description: string;
@@ -23,6 +23,7 @@ const UniversitiesList: React.FC = () => {
   const [universities, setUniversities] = useState<University[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState<string>('');
 
   useEffect(() => {
     const fetchUniversities = async () => {
@@ -48,6 +49,10 @@ const UniversitiesList: React.FC = () => {
     fetchUniversities();
   }, []);
 
+  const filteredUniversities = universities.filter((uni) =>
+    uni.name.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+
   if (loading) {
     return <div>Loading...</div>;
   }
@@ -63,12 +68,23 @@ const UniversitiesList: React.FC = () => {
   return (
     <div>
       <h2 className="text-2xl font-bold mb-4">Universities in Kazakhstan</h2>
+      <input
+        type="text"
+        placeholder="Search universities..."
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
+        className="mb-4 p-2 border border-gray-300 rounded"
+      />
       <ul className="space-y-4">
-        {universities.map(uni => (
-          <li key={uni.id} className="bg-white shadow rounded p-4">
+        {filteredUniversities.map((uni) => (
+          <li key={uni._id} className="bg-white shadow rounded p-4">
             <h3 className="text-xl font-semibold">{uni.name}</h3>
             <p className="text-gray-700">{uni.description}</p>
-            <Link href={`/uni-list/${uni.id}`}>visit</Link>
+            <Link href={`/uni-list/${uni._id}`}>
+              <p className="text-blue-500 hover:underline mt-2 block">
+                Visit university page
+              </p>
+            </Link>
           </li>
         ))}
       </ul>
