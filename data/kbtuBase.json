@@ -1,0 +1,19 @@
+{
+    "_id": {
+      "$oid": "64b8e4f8f5b5b4f0d4a1e93c"
+    },
+    "name": "Kazakh-British Technical University",
+    "location": "Almaty, Kazakhstan",
+    "description": "KBTU is a leading technical university in Kazakhstan.",
+    "logo_url": "https://example.com/logo.png",
+    "website_url": "https://kbtu.kz",
+    "established_year": 2001,
+    "type": "Technical",
+    "ranking": 1,
+    "tuition_fees": 5000,
+    "acceptance_rate": 80,
+    "contact_email": "info@kbtu.kz",
+    "contact_phone": "+7-727-357-42-42",
+    "alternate_names": ["KBTU"]
+  }
+  

@@ -1,0 +1,481 @@
+[
+  {
+    "id": "1",
+    "name": "Казахский национальный университет имени аль-Фараби",
+    "location": "Алматы",
+    "description": "Крупнейший и один из старейших университетов Казахстана.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knu.png",
+    "website_url": "https://www.kaznu.kz",
+    "established_year": 1934,
+    "type": "Государственный",
+    "ranking": 1,
+    "tuition_fees": 1000,
+    "acceptance_rate": 75,
+    "contact_email": "info@kaznu.kz",
+    "contact_phone": "+7-727-377-3333"
+  },
+  {
+    "id": "2",
+    "name": "Казахский институт менеджмента, экономики и прогнозирования (КИМЭП)",
+    "location": "Алматы",
+    "description": "Ведущий независимый университет в Центральной Азии.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kimep.png",
+    "website_url": "https://www.kimep.kz",
+    "established_year": 1992,
+    "type": "Частный",
+    "ranking": 2,
+    "tuition_fees": 5000,
+    "acceptance_rate": 60,
+    "contact_email": "info@kimep.kz",
+    "contact_phone": "+7-727-237-4747"
+  },
+  {
+    "id": "3",
+    "name": "Казахский национальный технический университет имени К.И. Сатпаева",
+    "location": "Алматы",
+    "description": "Один из ведущих технических университетов Казахстана.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/satbayev.png",
+    "website_url": "https://www.satbayev.university",
+    "established_year": 1934,
+    "type": "Государственный",
+    "ranking": 3,
+    "tuition_fees": 1500,
+    "acceptance_rate": 70,
+    "contact_email": "info@satbayev.university",
+    "contact_phone": "+7-727-292-6000"
+  },
+  {
+    "id": "4",
+    "name": "Казахско-Британский технический университет",
+    "location": "Республика Казахстан, 050000, Алматы, ул. Толе би, 59",
+    "description": "Современный университет с тесными связями с промышленностью.",
+    "logo_url": "https://unimori.s3.eu-north-1.amazonaws.com/logos/kbtu.png",
+    "website_url": "https://kbtu.edu.kz",
+    "established_year": 2001,
+    "type": "Частный",
+    "ranking": 4,
+    "tuition_fees": 3000,
+    "acceptance_rate": 65,
+    "contact_email": "info@kbtu.kz",
+    "contact_phone": "+7-727-357-4237",
+    "alternate_names": [
+      "KBTU",
+      "КБТУ",
+      "ҚБТУ"
+    ],
+    "specializations": [
+      {
+        "program": "Информационные системы",
+        "degree": "Бакалавр",
+        "academic_year": "2023-2024",
+        "total_credits": 240,
+        "subjects": [
+          {
+            "name": "Programming Principles I",
+            "code": "CSCI1103",
+            "year": 1,
+            "semester": 1,
+            "cycle": "C",
+            "ECTS": 6,
+            "KZ": 4,
+            "hour_breakdown": {
+              "lectures": 2,
+              "practicals": 0,
+              "self_study": 2
+            },
+            "prerequisites": ""
+          },
+          {
+            "name": "Calculus I",
+            "code": "MATH1102",
+            "year": 1,
+            "semester": 1,
+            "cycle": "C",
+            "ECTS": 5,
+            "KZ": 4,
+            "hour_breakdown": {
+              "lectures": 2,
+              "practicals": 0,
+              "self_study": 2
+            },
+            "prerequisites": "",
+            "description": "Calculus I covers the fundamental concepts of calculus, including limits, derivatives, integrals, and the Fundamental Theorem of Calculus. The course emphasizes problem-solving skills and the application of calculus concepts to real-world problems. Topics include functions, limits, continuity, differentiation, integration, and applications of derivatives and integrals."
+          },
+          {
+            "name": "Discrete Structures",
+            "code": "CSCI1102",
+            "year": 1,
+            "semester": 1,
+            "cycle": "C",
+            "ECTS": 5,
+            "KZ": 3,
+            "hour_breakdown": {
+              "lectures": 2,
+              "practicals": 0,
+              "self_study": 1
+            },
+            "prerequisites": "",
+            "description": "The goals of the course are to familiarize students with the important branches of Discrete Structures. Upon successful completion of this course, students will be able to demonstrate critical thinking, analytical reasoning, and problem-solving skills, apply appropriate mathematical concepts and operations to interpret data and to solve problems, and identify a problem and analyze it in terms of its significant parts and the information needed to solve it. Topics include sets, relations, functions, logic and propositional calculus, proofs and induction, number theory, counting, combinatorics, graph theory, trees, languages, automata, and grammars."
+          },
+          {
+            "name": "English 1 level A0",
+            "code": "LAN1180",
+            "year": 1,
+            "semester": 1,
+            "cycle": "G",
+            "ECTS": 10,
+            "KZ": 6,
+            "hour_breakdown": {
+              "lectures": 0,
+              "practicals": 0,
+              "self_study": 6
+            },
+            "prerequisites": "Diagn. Test",
+            "description": "Можно сделать перезачёт по сертификату IELTS за 40 тыс тенге и заменить её на дисциплину с других семестров. В случае перезачёта ставится отметка 'passed' и оценка в 100-балльной системе будет равна 80 из 100. Английский язык разделен на уровни для упрощения обучения студентам и уровень языка определяется по сертификату IELTS либо по диагностическому тестированию."
+          }
+        ],
+        "total_credits_semester_1": {
+          "ECTS": 26,
+          "KZ": 17
+        }
+      },
+      {
+        "academic_calendar": {
+          "2024-2025": {
+            "orientation_week_for_freshmen": "26 августа - 13 сентября 2024",
+            "registration_of_subjects_for_spring_semester_only_for_freshmen": "28 октября - 17 ноября 2024",
+            "academic_period": {
+              "fall_semester": "2 сентября - 14 декабря 2024",
+              "spring_semester": "13 января - 26 апреля 2025",
+              "summer_semester": "2 июня - 12 июля 2025"
+            },
+            "midterm": {
+              "fall_semester": "21-26 октября 2024",
+              "spring_semester": "24 февраля - 1 марта 2025"
+            },
+            "course_registration_for_2025-2026": "1 - 31 марта 2025",
+            "final_exam_period": {
+              "fall_semester": "17-31 декабря 2024",
+              "spring_semester": "28 апреля - 17 мая 2025",
+              "summer_semester": "14-16 июля 2025"
+            },
+            "resit_period_or_fx_exams": {
+              "fall_semester": "3-11 января 2025",
+              "spring_semester": "28 апреля - 24 мая 2025"
+            },
+            "practical_training": {
+              "fall_semester": "during the semester",
+              "spring_semester": "26 мая - 7 июня 2025"
+            },
+            "industrial_and_pre-diploma_practice": {
+              "duration": "four weeks before final attestation",
+              "report_defense": "two weeks before final attestation"
+            },
+            "final_attestation_period": {
+              "fall_semester": "20-31 января 2025",
+              "spring_semester": "26 мая - 14 июня 2025"
+            },
+            "holidays": [
+              "30 августа 2024",
+              "25 октября 2024",
+              "16 декабря 2024",
+              "1-2, 7 января 2025",
+              "8 марта 2025",
+              "21-23 марта 2025",
+              "1 мая 2025",
+              "7 мая 2025",
+              "9 мая 2025",
+              "7 июня 2025",
+              "6 июля 2025"
+            ],
+            "vacation": {
+              "fall_semester": "1-12 января 2025",
+              "spring_semester": "26 мая - 31 августа 2025"
+            },
+            "add_drop_week": {
+              "fall_semester": "2-7 сентября 2024",
+              "spring_semester": "13-18 января 2025",
+              "ISE_fall_semester": "2-7 сентября 2024",
+              "ISE_spring_semester": "6-11 января 2025"
+            },
+            "schedule_preparation": {
+              "fall_semester": "12-24 августа 2024",
+              "spring_semester": "6-12 января 2025",
+              "ISE_fall_semester": "12-24 августа 2024",
+              "ISE_spring_semester": "1-4 января 2025"
+            },
+            "course_withdrawal": {
+              "fall_semester": "до 25 сентября 2024",
+              "spring_semester": "до 3 февраля 2025",
+              "ISE_fall_semester": "до 25 сентября 2024",
+              "ISE_spring_semester": "до 1 февраля 2025"
+            }
+          }
+        }
+      }
+    ],
+    "studentOrganizations": [
+      {
+        "name": "IT-клуб",
+        "description": "Описание клуба",
+        "social_link": "https://vk.com/itclub",
+        "activities": "Встречи, лекции",
+        "frequency": "Еженедельно"
+      },
+      {
+        "name": "AI-community KBTU",
+        "description": "Проекты и исследования по искусственному интеллекту. Капитан - Арайлым, профессор PHD Когнитивных Наук Алина Гуторева",
+        "social_link": "https://www.instagram.com/ai_kbtu/",
+        "activities": "Лекции, встречи, хакатоны, воркшопы, исследования, разработка проектов",
+        "frequency": "Еженедельно в 444 кабинете"
+      },
+      {
+        "name": "MLSA KBTU",
+        "description": "Сообщество разработчиков стэка Microsoft. Капитан - Альтаир, профессор Владимир Попов",
+        "social_link": "https://www.instagram.com/ai_kbtu/",
+        "activities": "Лекции, встречи, хакатоны, воркшопы, разработка проектов, открытые курсы и сертификации",
+        "frequency": "Еженедельно в 154 кабинете"
+      }
+    ]
+  },
+{
+  "id": "5",
+  "name": "Казахский национальный медицинский университет имени С.Д. Асфендиярова",
+  "location": "Алматы",
+  "description": "Ведущий медицинский университет Казахстана.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knmu.png",
+  "website_url": "https://www.kaznmu.kz",
+  "established_year": 1930,
+  "type": "Государственный",
+  "ranking": 5,
+  "tuition_fees": 2000,
+  "acceptance_rate": 55,
+  "contact_email": "info@kaznmu.kz",
+  "contact_phone": "+7-727-338-7070"
+},
+{
+  "id": "6",
+  "name": "Алматинский университет менеджмента",
+  "location": "Алматы",
+  "description": "Лидер в области бизнес-образования в Казахстане.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/almau.png",
+  "website_url": "https://www.almau.edu.kz",
+  "established_year": 1988,
+  "type": "Частный",
+  "ranking": 6,
+  "tuition_fees": 4000,
+  "acceptance_rate": 50,
+  "contact_email": "info@almau.edu.kz",
+  "contact_phone": "+7-727-313-3030"
+},
+{
+  "id": "7",
+  "name": "Казахская академия транспорта и коммуникаций имени М.Тынышпаева",
+  "location": "Алматы",
+  "description": "Крупный технический университет, специализирующийся на транспорте и коммуникациях.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazatk.png",
+  "website_url": "https://www.kazatk.kz",
+  "established_year": 1931,
+  "type": "Государственный",
+  "ranking": 7,
+  "tuition_fees": 2500,
+  "acceptance_rate": 60,
+  "contact_email": "info@kazatk.kz",
+  "contact_phone": "+7-727-292-0202"
+},
+{
+  "id": "8",
+  "name": "Университет Нархоз",
+  "location": "Алматы",
+  "description": "Известный университет в области экономики и финансов.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/narxoz.png",
+  "website_url": "https://www.narxoz.kz",
+  "established_year": 1963,
+  "type": "Частный",
+  "ranking": 8,
+  "tuition_fees": 3000,
+  "acceptance_rate": 65,
+  "contact_email": "info@narxoz.kz",
+  "contact_phone": "+7-727-377-9999"
+},
+{
+  "id": "9",
+  "name": "Казахский национальный аграрный университет",
+  "location": "Алматы",
+  "description": "Ведущий университет в области сельского хозяйства и аграрных наук.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznau.png",
+  "website_url": "https://www.kaznau.kz",
+  "established_year": 1929,
+  "type": "Государственный",
+  "ranking": 9,
+  "tuition_fees": 1500,
+  "acceptance_rate": 70,
+  "contact_email": "info@kaznau.kz",
+  "contact_phone": "+7-727-264-0000"
+},
+{
+  "id": "10",
+  "name": "Алматинский технологический университет",
+  "location": "Алматы",
+  "description": "Известен своими программами в области технологии и инженерии.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/atu.png",
+  "website_url": "https://www.atu.kz",
+  "established_year": 1957,
+  "type": "Государственный",
+  "ranking": 10,
+  "tuition_fees": 2000,
+  "acceptance_rate": 60,
+  "contact_email": "info@atu.kz",
+  "contact_phone": "+7-727-237-1212"
+},
+{
+  "id": "11",
+  "name": "Университет Сулеймана Демиреля",
+  "location": "Алматы",
+  "description": "Известный университет с сильными программами в области IT и бизнеса.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/sdu.png",
+  "website_url": "https://www.sdu.edu.kz",
+  "established_year": 1996,
+  "type": "Частный",
+  "ranking": 11,
+  "tuition_fees": 3500,
+  "acceptance_rate": 55,
+  "contact_email": "info@sdu.edu.kz",
+  "contact_phone": "+7-727-307-9555"
+},
+{
+  "id": "12",
+  "name": "Казахский государственный женский педагогический университет",
+  "location": "Алматы",
+  "description": "Специализируется на подготовке педагогических кадров.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazgugz.png",
+  "website_url": "https://www.kazgugz.edu.kz",
+  "established_year": 1944,
+  "type": "Государственный",
+  "ranking": 12,
+  "tuition_fees": 1200,
+  "acceptance_rate": 70,
+  "contact_email": "info@kazgugz.edu.kz",
+  "contact_phone": "+7-727-233-7000"
+},
+{
+  "id": "13",
+  "name": "Казахская национальная консерватория имени Курмангазы",
+  "location": "Алматы",
+  "description": "Главный музыкальный вуз Казахстана.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knk.png",
+  "website_url": "https://www.conservatoire.kz",
+  "established_year": 1944,
+  "type": "Государственный",
+  "ranking": 13,
+  "tuition_fees": 2000,
+  "acceptance_rate": 65,
+  "contact_email": "info@conservatoire.kz",
+  "contact_phone": "+7-727-272-7900"
+},
+{
+  "id": "14",
+  "name": "Казахский национальный университет искусств",
+  "location": "Алматы",
+  "description": "Известен своими программами в области искусства и культуры.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznai.png",
+  "website_url": "https://www.kaznai.kz",
+  "established_year": 1978,
+  "type": "Государственный",
+  "ranking": 14,
+  "tuition_fees": 2200,
+  "acceptance_rate": 60,
+  "contact_email": "info@kaznai.kz",
+  "contact_phone": "+7-727-272-7400"
+},
+{
+  "id": "15",
+  "name": "Казахский национальный педагогический университет имени Абая",
+  "location": "Алматы",
+  "description": "Старейший педагогический вуз Казахстана.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznpu.png",
+  "website_url": "https://www.kaznpu.kz",
+  "established_year": 1928,
+  "type": "Государственный",
+  "ranking": 15,
+  "tuition_fees": 1300,
+  "acceptance_rate": 70,
+  "contact_email": "info@kaznpu.kz",
+  "contact_phone": "+7-727-291-3600"
+},
+{
+  "id": "16",
+  "name": "Алматинский медицинский университет",
+  "location": "Алматы",
+  "description": "Современный университет с программами в области медицины.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/amu.png",
+  "website_url": "https://www.amu.kz",
+  "established_year": 2000,
+  "type": "Частный",
+  "ranking": 16,
+  "tuition_fees": 2500,
+  "acceptance_rate": 65,
+  "contact_email": "info@amu.kz",
+  "contact_phone": "+7-727-377-7777"
+},
+{
+  "id": "17",
+  "name": "Казахский университет международных отношений и мировых языков имени Абылай хана",
+  "location": "Алматы",
+  "description": "Специализируется на подготовке специалистов в области международных отношений и языков.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazumo.png",
+  "website_url": "https://www.ablaikhan.kz",
+  "established_year": 1941,
+  "type": "Государственный",
+  "ranking": 17,
+  "tuition_fees": 1400,
+  "acceptance_rate": 70,
+  "contact_email": "info@ablaikhan.kz",
+  "contact_phone": "+7-727-292-0500"
+},
+{
+  "id": "18",
+  "name": "Казахский экономический университет имени Т. Рыскулова",
+  "location": "Алматы",
+  "description": "Известный экономический вуз Казахстана.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kue.png",
+  "website_url": "https://www.kue.kz",
+  "established_year": 1963,
+  "type": "Государственный",
+  "ranking": 18,
+  "tuition_fees": 1800,
+  "acceptance_rate": 65,
+  "contact_email": "info@kue.kz",
+  "contact_phone": "+7-727-377-7666"
+},
+{
+  "id": "19",
+  "name": "Алматинский гуманитарно-экономический университет",
+  "location": "Алматы",
+  "description": "Современный университет с программами в области экономики и гуманитарных наук.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/agu.png",
+  "website_url": "https://www.agu.kz",
+  "established_year": 1996,
+  "type": "Частный",
+  "ranking": 19,
+  "tuition_fees": 2200,
+  "acceptance_rate": 60,
+  "contact_email": "info@agu.kz",
+  "contact_phone": "+7-727-377-8787"
+},
+{
+  "id": "20",
+  "name": "Казахская национальная академия хореографии",
+  "location": "Алматы",
+  "description": "Уникальный вуз, специализирующийся на хореографии.",
+  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kna.png",
+  "website_url": "https://www.kna.kz",
+  "established_year": 2016,
+  "type": "Государственный",
+  "ranking": 20,
+  "tuition_fees": 2500,
+  "acceptance_rate": 50,
+  "contact_email": "info@kna.kz",
+  "contact_phone": "+7-727-377-9999"
+}
+]

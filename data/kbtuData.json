@@ -1,0 +1,178 @@
+{
+    "university": "Казахский-Британский Технический Университет",
+    "specializations": [
+        {
+            "program": "Информационные системы",
+            "degree": "Бакалавр",
+            "academic_year": "2023-2024",
+            "total_credits": 240,
+            "subjects": [
+                {
+                    "name": "Programming Principles I",
+                    "code": "CSCI1103",
+                    "year": 1,
+                    "semester": 1,
+                    "cycle": "C",
+                    "ECTS": 6,
+                    "KZ": 4,
+                    "hour_breakdown": {
+                        "lectures": 2,
+                        "practicals": 0,
+                        "self_study": 2
+                    },
+                    "prerequisites": ""
+                },
+                {
+                    "name": "Calculus I",
+                    "code": "MATH1102",
+                    "year": 1,
+                    "semester": 1,
+                    "cycle": "C",
+                    "ECTS": 5,
+                    "KZ": 4,
+                    "hour_breakdown": {
+                        "lectures": 2,
+                        "practicals": 0,
+                        "self_study": 2
+                    },
+                    "prerequisites": "",
+                    "description": "Calculus I covers the fundamental concepts of calculus, including limits, derivatives, integrals, and the Fundamental Theorem of Calculus. The course emphasizes problem-solving skills and the application of calculus concepts to real-world problems. Topics include functions, limits, continuity, differentiation, integration, and applications of derivatives and integrals."
+                },
+                {
+                    "name": "Discrete Structures",
+                    "code": "CSCI1102",
+                    "year": 1,
+                    "semester": 1,
+                    "cycle": "C",
+                    "ECTS": 5,
+                    "KZ": 3,
+                    "hour_breakdown": {
+                        "lectures": 2,
+                        "practicals": 0,
+                        "self_study": 1
+                    },
+                    "prerequisites": "",
+                    "description": "The goals of the course are to familiarize students with the important branches of Discrete Structures. Upon successful completion of this course, students will be able to demonstrate critical thinking, analytical reasoning, and problem-solving skills, apply appropriate mathematical concepts and operations to interpret data and to solve problems, and identify a problem and analyze it in terms of its significant parts and the information needed to solve it. Topics include sets, relations, functions, logic and propositional calculus, proofs and induction, number theory, counting, combinatorics, graph theory, trees, languages, automata, and grammars."
+                },
+                {
+                    "name": "English 1 level A0",
+                    "code": "LAN1180",
+                    "year": 1,
+                    "semester": 1,
+                    "cycle": "G",
+                    "ECTS": 10,
+                    "KZ": 6,
+                    "hour_breakdown": {
+                        "lectures": 0,
+                        "practicals": 0,
+                        "self_study": 6
+                    },
+                    "prerequisites": "Diagn. Test",
+                    "description": "Можно сделать перезачёт по сертификату IELTS за 40 тыс тенге и заменить её на дисциплину с других семестров. В случае перезачёта ставится отметка 'passed' и оценка в 100-балльной системе будет равна 80 из 100. Английский язык разделен на уровни для упрощения обучения студентам и уровень языка определяется по сертификату IELTS либо по диагностическому тестированию."
+                }
+            ],
+            "total_credits_semester_1": {
+                "ECTS": 26,
+                "KZ": 17
+            }
+        },
+        {
+            "academic_calendar": {
+                "2024-2025": {
+                    "orientation_week_for_freshmen": "26 августа - 13 сентября 2024",
+                    "registration_for_spring_semester_1st_year": "28 октября - 17 ноября 2024",
+                    "academic_period": {
+                        "fall_semester": "2 сентября - 14 декабря 2024",
+                        "spring_semester": "13 января - 26 апреля 2025",
+                        "summer_semester": "2 июня - 12 июля 2025"
+                    },
+                    "midterm": {
+                        "fall_semester": "21-26 октября 2024",
+                        "spring_semester": "24 февраля - 1 марта 2025"
+                    },
+                    "course_registration_for_2025-2026": "1 - 31 марта 2025",
+                    "exam_period": {
+                        "fall_semester": "17-31 декабря 2024",
+                        "spring_semester": "28 апреля - 17 мая 2025",
+                        "summer_semester": "14-16 июля 2025"
+                    },
+                    "resit_period": {
+                        "fall_semester": "3-11 января 2025",
+                        "spring_semester": "28 апреля - 24 мая 2025"
+                    },
+                    "practical_training": {
+                        "fall_semester": "during the semester",
+                        "spring_semester": "26 мая - 7 июня 2025"
+                    },
+                    "industrial_and_pre-diploma_practice": {
+                        "duration": "four weeks before final attestation",
+                        "report_defense": "two weeks before final attestation"
+                    },
+                    "final_attestation_period": {
+                        "fall_semester": "20-31 января 2025",
+                        "spring_semester": "26 мая - 14 июня 2025"
+                    },
+                    "holidays": [
+                        "30 августа 2024",
+                        "25 октября 2024",
+                        "16 декабря 2024",
+                        "1-2, 7 января 2025",
+                        "8 марта 2025",
+                        "21-23 марта 2025",
+                        "1 мая 2025",
+                        "7 мая 2025",
+                        "9 мая 2025",
+                        "7 июня 2025",
+                        "6 июля 2025"
+                    ],
+                    "vacation": {
+                        "fall_semester": "1-12 января 2025",
+                        "spring_semester": "26 мая - 31 августа 2025"
+                    },
+                    "add_drop_week": {
+                        "fall_semester": "2-7 сентября 2024",
+                        "spring_semester": "13-18 января 2025",
+                        "ISE_fall_semester": "2-7 сентября 2024",
+                        "ISE_spring_semester": "6-11 января 2025"
+                    },
+                    "schedule_preparation": {
+                        "fall_semester": "12-24 августа 2024",
+                        "spring_semester": "6-12 января 2025",
+                        "ISE_fall_semester": "12-24 августа 2024",
+                        "ISE_spring_semester": "1-4 января 2025"
+                    },
+                    "course_withdrawal": {
+                        "fall_semester": "до 25 сентября 2024",
+                        "spring_semester": "до 3 февраля 2025",
+                        "ISE_fall_semester": "до 25 сентября 2024",
+                        "ISE_spring_semester": "до 1 февраля 2025"
+                    }
+                }
+            }
+        }
+        
+    ],
+    "studentOrganizations": [
+        {
+            "name": "IT-клуб",
+            "description": "Описание клуба",
+            "social_link": "https://vk.com/itclub",
+            "activities": "Встречи, лекции",
+            "frequency": "Еженедельно"
+        },
+        {
+            "name": "AI-community KBTU",
+            "description": "Проекты и исследования по искусственному интеллекту. Капитан - Арайлым, профессор PHD Когнитивных Наук Алина Гуторева",
+            "social_link": "https://www.instagram.com/ai_kbtu/",
+            "activities": "Лекции, встречи, хакатоны, воркшопы, исследования, разработка проектов",
+            "frequency": "Еженедельно в 444 кабинете"
+        },
+        {
+            "name": "MLSA KBTU",
+            "description": "Сообщество разработчиков стэка Microsoft. Капитан - Альтаир, профессор Владимир Попов",
+            "social_link": "https://www.instagram.com/ai_kbtu/",
+            "activities": "Лекции, встречи, хакатоны, воркшопы, разработка проектов, открытые курсы и сертификации",
+            "frequency": "Еженедельно в 154 кабинете"
+        }
+    ]
+}
