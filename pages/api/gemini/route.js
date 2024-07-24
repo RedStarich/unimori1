@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import dotenv from 'dotenv';
-import kbtuData from '../../../data/kbtuData.json'; // Данные KBTU
+// import kbtuData from '../../../data/kbtuData.json'; // Данные KBTU
 import universitiesData from '../../../data/universities.json'; // Данные всех университетов
 
 dotenv.config();
@@ -39,7 +39,7 @@ export default async function handler(req, res) {
   try {
     const model = genAI.getGenerativeModel({
       model: "gemini-1.5-flash",
-      systemInstruction: `You are a knowledgeable assistant with detailed information about ${university ? university.name : "KBTU"}. Answer the questions based on the following data. If the answer requires listing items, present them as a bulleted list or numbered list. Respond in the language the user talks`,
+      systemInstruction: `You are a knowledgeable assistant with detailed information about ${university ? university.name : "KBTU"}. Answer the questions based on the following data. If the answer requires listing items, present them as a bulleted list or numbered list. Respond in the language the user talks, translate the data to the user's language such as 12 Января to 12th January or Казахско-Британский to Kazakh-British`,
     });
     
     const chatSession = model.startChat({
