@@ -1,28 +1,30 @@
-import dbConnect from '../../../lib/dbConnect';
-import University from '../../../src/models/University';
+import path from 'path';
+import { promises as fs } from 'fs';
+
+let cachedData = null;
+let cacheTime = null;
 
 export default async function handler(req, res) {
-  await dbConnect();
+  const cacheDuration = 60 * 1000; // 1 minute
+  const currentTime = Date.now();
 
-  switch (req.method) {
-    case 'GET':
-      try {
-        const universities = await University.find({});
-        res.status(200).json({ success: true, universities });
-      } catch (error) {
-        res.status(400).json({ success: false });
-      }
-      break;
-    case 'POST':
-      try {
-        const university = await University.create(req.body);
-        res.status(201).json({ success: true, university });
-      } catch (error) {
-        res.status(400).json({ success: false });
-      }
-      break;
-    default:
-      res.status(400).json({ success: false });
-      break;
+  try {
+    if (cachedData && cacheTime && (currentTime - cacheTime < cacheDuration)) {
+      console.log('Serving from cache');
+      return res.status(200).json({ universities: cachedData });
+    }
+
+    console.log('Reading from file');
+    const jsonDirectory = path.join(process.cwd(), 'data');
+    const fileContents = await fs.readFile(path.join(jsonDirectory, 'universities.json'), 'utf8');
+    const universities = JSON.parse(fileContents);
+
+    cachedData = universities;
+    cacheTime = currentTime;
+
+    res.status(200).json({ universities });
+  } catch (error) {
+    console.error('Error reading universities.json:', error);
+    res.status(500).json({ message: 'Failed to load universities data' });
   }
 }

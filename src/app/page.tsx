@@ -1,11 +1,26 @@
-const Home: React.FC = () => {
-    return (
-      <div>
-        <h1 className="text-4xl font-bold mb-4">Home Page</h1>
-        <p>Welcome to the home page!</p>
-      </div>
-    );
-  }
-  
-  export default Home;
-  
+import Head from 'next/head';
+import HeroSection from './components/HeroSection';
+import AboutSection from './components/AboutSection';
+import FeaturesSection from './components/FeaturesSection';
+import HowItWorksSection from './components/HowItWorksSection';
+import TestimonialsSection from './components/TestimonialsSection';
+import JoinUsSection from './components/JoinUsSection';
+
+const Home = () => {
+  return (
+    <div>
+      <Head>
+        <title>Unimori.ai</title>
+        <meta name="description" content="Платформа для поддержки студентов" />
+      </Head>
+      <HeroSection />
+      <AboutSection />
+      <FeaturesSection />
+      <HowItWorksSection />
+      <TestimonialsSection />
+      <JoinUsSection />
+    </div>
+  );
+};
+
+export default Home;

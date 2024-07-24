@@ -1,10 +1,10 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useMemo } from 'react';
 import Link from 'next/link';
 
 interface University {
-  _id: string; // Изменено на _id, так как MongoDB использует _id
+  _id: string;
   name: string;
   location: string;
   description: string;
@@ -17,30 +17,30 @@ interface University {
   acceptance_rate: number;
   contact_email: string;
   contact_phone: string;
+  alternate_names?: string[];
 }
 
 const UniversitiesList: React.FC = () => {
   const [universities, setUniversities] = useState<University[]>([]);
-  const [loading, setLoading] = useState<boolean>(true);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     const fetchUniversities = async () => {
       try {
-        const res = await fetch('/api/universities');
+        const res = await fetch('/api/universities/route');
         if (!res.ok) {
           throw new Error('Failed to fetch universities');
         }
         const data = await res.json();
-        console.log('Fetched data:', data); // Добавьте лог для проверки данных
         if (data && Array.isArray(data.universities)) {
           setUniversities(data.universities);
         } else {
           throw new Error('Invalid data format');
         }
       } catch (err) {
-        setError((err as any).message);
+        setError((err as Error).message);
       } finally {
         setLoading(false);
       }
@@ -49,9 +49,11 @@ const UniversitiesList: React.FC = () => {
     fetchUniversities();
   }, []);
 
-  const filteredUniversities = universities.filter((uni) =>
-    uni.name.toLowerCase().includes(searchQuery.toLowerCase())
-  );
+  const filteredUniversities = useMemo(() =>
+    universities.filter((uni) =>
+      uni.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      (uni.alternate_names && uni.alternate_names.some(name => name.toLowerCase().includes(searchQuery.toLowerCase())))
+    ), [universities, searchQuery]);
 
   if (loading) {
     return <div>Loading...</div>;
@@ -80,7 +82,7 @@ const UniversitiesList: React.FC = () => {
           <li key={uni._id} className="bg-white shadow rounded p-4">
             <h3 className="text-xl font-semibold">{uni.name}</h3>
             <p className="text-gray-700">{uni.description}</p>
-            <Link href={`/uni-list/${uni._id}`}>
+            <Link href={`/uni-list/${encodeURIComponent(uni.name)}`}>
               <p className="text-blue-500 hover:underline mt-2 block">
                 Visit university page
               </p>

@@ -1,6 +1,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import dotenv from 'dotenv';
-import kbtuData from '../../../kbtuData.json'; // Предположим, ваши данные находятся в этом файле
+import kbtuData from '../../../data/kbtuData.json'; // Данные KBTU
+import universitiesData from '../../../data/universities.json'; // Данные всех университетов
 
 dotenv.config();
 
@@ -24,18 +25,21 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method Not Allowed' });
   }
 
-  const { question } = req.body;
+  const { question, uniName } = req.body;
 
-  if (!question) {
-    return res.status(400).json({ error: 'Question is required' });
+  if (!question || !uniName) {
+    return res.status(400).json({ error: 'Question and uniName are required' });
   }
 
-  const context = `Here is some information about Kazakh-British Technical University (KBTU):\n${JSON.stringify(kbtuData, null, 2)}\n\n`;
+  const university = universitiesData.find(uni => uni.name === uniName);
+  const context = university 
+    ? `Here is some information about ${university.name}:\n${JSON.stringify(university, null, 2)}\n\n`
+    : `Here is some information about Kazakh-British Technical University (KBTU):\n${JSON.stringify(kbtuData, null, 2)}\n\n`;
 
   try {
     const model = genAI.getGenerativeModel({
       model: "gemini-1.5-flash",
-      systemInstruction: `You are a knowledgeable assistant with detailed information about KBTU. Answer the questions based on the following data. If the answer requires listing items, present them as a bulleted list or numbered list.`,
+      systemInstruction: `You are a knowledgeable assistant with detailed information about ${university ? university.name : "KBTU"}. Answer the questions based on the following data. If the answer requires listing items, present them as a bulleted list or numbered list. Respond in the language the user talks`,
     });
     
     const chatSession = model.startChat({
