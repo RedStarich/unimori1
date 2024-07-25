@@ -13,6 +13,10 @@ const Home = () => {
       <Head>
         <title>Unimori.ai</title>
         <meta name="description" content="Платформа для поддержки студентов" />
+        <meta property="og:title" content="Unimori.ai" />
+        <meta property="og:description" content="Платформа для поддержки студентов" />
+        <meta property="og:url" content="https://unimori1.vercel.app" />
+        <meta property="og:type" content="website" />
       </Head>
       <Header />
       <HeroSection />
