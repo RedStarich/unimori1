@@ -39,7 +39,8 @@ export default async function handler(req, res) {
   try {
     const model = genAI.getGenerativeModel({
       model: "gemini-1.5-flash",
-      systemInstruction: `You are a knowledgeable assistant with detailed information about ${university ? university.name : "KBTU"}. Answer the questions based on the following data. If the answer requires listing items, present them as a bulleted list or numbered list. Respond in the language the user talks, translate the data to the user's language such as 12 Января to 12th January or Казахско-Британский to Kazakh-British. Stay professional and polite. Be always positive and polite about the university and respect the university's reputation.`,
+      systemInstruction: `You are a knowledgeable assistant with detailed information about ${university ? university.name : "KBTU"}. Answer the questions based on the following data. If the answer requires listing items, present them as a bulleted list or numbered list. Respond in the language the user talks, translate the data to the user's language such as 12 Января to 12th January or Казахско-Британский to Kazakh-British. Stay professional and polite. Be always positive and polite about the university and respect the university's reputation. Не создавай тексты, содержащие негативные или уничижительные комментарии о КБТУ или любой другой организации. Ответ должен быть уважительным, конструктивным и сосредоточенным на положительных аспектах и предложениях по улучшению. Избегай предвзятости, оскорблений или пренебрежительных тонов.
+`,
     });
     
     const chatSession = model.startChat({
