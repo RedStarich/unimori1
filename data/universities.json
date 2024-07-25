@@ -48,16 +48,16 @@
     "id": "4",
     "name": "Казахско-Британский технический университет",
     "location": "Республика Казахстан, 050000, Алматы, ул. Толе би, 59",
-    "description": "Современный университет с тесными связями с промышленностью.",
+    "description": "-",
     "logo_url": "https://unimori.s3.eu-north-1.amazonaws.com/logos/kbtu.png",
     "website_url": "https://kbtu.edu.kz",
     "established_year": 2001,
     "type": "Частный",
-    "ranking": 4,
-    "tuition_fees": 3000,
-    "acceptance_rate": 65,
+    "ranking": "n/a",
+    "tuition_fees": "n/a",
+    "acceptance_rate": "n/a",
     "contact_email": "info@kbtu.kz",
-    "contact_phone": "+7-727-357-4237",
+    "contact_phone": "n/a",
     "schools": [
       {
         "school_of_IT_and_engineering": [
