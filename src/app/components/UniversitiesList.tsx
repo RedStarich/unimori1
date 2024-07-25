@@ -20,6 +20,12 @@ interface University {
   alternate_names?: string[];
 }
 
+const Loader: React.FC = () => (
+  <div className="flex justify-center items-center h-screen">
+    <img src="https://media1.tenor.com/m/OWI_ai132b0AAAAC/wink-dog.gif" alt="Loading..." />
+  </div>
+);
+
 const UniversitiesList: React.FC = () => {
   const [universities, setUniversities] = useState<University[]>([]);
   const [loading, setLoading] = useState(true);
@@ -56,7 +62,7 @@ const UniversitiesList: React.FC = () => {
     ), [universities, searchQuery]);
 
   if (loading) {
-    return <div>Loading...</div>;
+    return <Loader />;
   }
 
   if (error) {
