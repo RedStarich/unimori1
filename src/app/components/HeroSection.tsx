@@ -1,15 +1,21 @@
-import Link from 'next/link';
+import React from 'react';
 
 const HeroSection = () => {
-    return (
-        <section className="bg-hero-pattern bg-cover bg-center text-center text-black py-20">
-            <h2 className="text-4xl font-bold mb-4">Unimori.ai – Ваша платформа для поддержки студентов</h2>
-            <p className="text-xl mb-8">Найдите всю необходимую информацию о вашем университете в одном месте</p>
-            <Link href='/uni-list'>
-                <button className="bg-blue-600 px-6 py-3 rounded-lg text-lg font-semibold text-white">Найти информацию</button>
-            </Link>
-        </section>
-    );
+  return (
+    <section className="bg-white py-20">
+      <div className="container mx-auto text-center">
+        <h1 className="text-4xl font-bold text-blue-600 mb-4">
+          Unimori.Ai – платформа для поддержки студентов
+        </h1>
+        <p className="text-lg text-gray-700 mb-8">
+          Найдите всю необходимую информацию о вашем университете в одном месте
+        </p>
+        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg text-lg font-semibold">
+          Найти информацию
+        </button>
+      </div>
+    </section>
+  );
 };
 
 export default HeroSection;
