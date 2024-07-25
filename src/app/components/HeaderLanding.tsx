@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { HiMenu, HiX } from 'react-icons/hi';
+import Image from 'next/image';
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -23,9 +24,9 @@ const Header = () => {
     <header className="bg-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center p-4">
         <Link href="/" passHref>
-          <button className="text-2xl font-bold text-blue-600 bg-transparent border-none cursor-pointer">
-            Unimori.ai
-          </button>
+          <p className="flex items-center">
+            <Image src="/images/main-logo.png" alt="Unimori.ai" width={150} height={42} />
+          </p>
         </Link>
         <div className="hidden md:flex space-x-8 items-center">
           <a href="#about" onClick={(e) => handleScroll(e, 'about')} className="cursor-pointer text-gray-700 hover:text-blue-600 transition duration-300">О нас</a>
