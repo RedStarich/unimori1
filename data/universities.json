@@ -58,6 +58,124 @@
     "acceptance_rate": 65,
     "contact_email": "info@kbtu.kz",
     "contact_phone": "+7-727-357-4237",
+    "schools": [
+      {
+        "school_of_IT_and_engineering": [
+          {
+            "dean_office": "2 этаж, сторона Абылай Хана, 254 кабинет",
+            "alt_name_of_school": [
+              "School of Information Technology and Engineering",
+              "SITE",
+              "Школа Информационных Технологий и Инженерии",
+              "ШИТиИ",
+              "Факультет Информационных Технологий и Инженерии",
+              "ФИТиИ",
+              "Факультет Информационных Технологий",
+              "ФИТ"
+            ],
+            "description": "Школа информационных технологий и инженерии – это прежде всего семья единомышленников, цель которой принести еще больше счастья и удовольствия обществу через образование: чтобы каждый год в интеллектуальной прослойке общества становилось на несколько сот больше молодежи, которая умеет принимать ответственные решения для благополучия своих семей, для компаний, в которых они работают, и в целом для общества. Миссия ШИТиИ, которую поддерживают члены нашей семьи - студенты и сотрудники школы - сделать мир лучше, в том числе и через ИТ образование. С этой целью и мечтой (которая сбывается!) ШИТиИ живет с момента своего основания в 2002 году. В разные периоды времени нивелировались задачи для достижения цели - и это естественно: жизнь меняется быстротечно, а скорости изменений в обществе, особенно в технологиях настолько велики, что казавшееся нам фантастикой еще 50 лет назад, сегодня уже реальность, в разработке которой участвует порою молодежь школьного возраста. На сегодня ШИТиИ – это самая большая школа КБТУ, в которой получают образовательные услуги более чем две тысячи студентов бакалавров, магистров и докторантов. Существуют несколько составляющих в жизни школы, на которых опирается успех в решении задач для достижения цели. Нам представляются эти составляющие таковыми: 1. Окружение (атмосфера) 2. Образовательные программы 3. Преподавательский состав 4. Техническое оснащение (лаборатории) 5. Связь с индустрией 6. Научно-прикладные исследования. Каждая из этих составляющих вносит свой значительный вклад в достижение цели. В отсутствии какой-либо из составляющих нам вряд ли удалось бы добиться тех достижений, которыми гордится КБТУ и вся страна. А достижения поистине впечатляют.",
+            "mission": " Благодаря продвижению и распространению знаний, технических ноу-хау и повышению квалификации ШИТиИ будет способствовать экономическому росту и процветанию. Мы будем способствовать созданию социального и культурного взаимопонимания на местном и глобальном уровнях путем подготовки социально сознательных и ответственных граждан. Мы позаботимся о том, чтобы молодые мужчины и женщины, прошедшие обучение в ШИТИИ, были высококвалифицированными, опытными и компетентными профессионалами. Эти интеллектуально и технически способные люди станут достоянием глобального общества знаний.",
+            "goals": "Школа информационных технологий и инженерии является учебным, научным и административным подразделением Казахстанско-Британского технического университета, который фокусируется на подготовке высококвалифицированных специалистов, предоставляя первоклассные программы бакалавриата, магистратуры и докторантуры, курсы повышения квалификации по ИТ-специальностям, отвечающих требованиям международных стандартов, за счет использования современных образовательных технологий и постоянно стремящихся к совершенствованию учебно-методических компетенций профессорско-преподавательского состава. Для реализации и поддержания целей в области качества профессорско-преподавательский состав Университета ставит перед собой следующие цели: 1. Обеспечить конкурентоспособность выпускников в сфере образования в Казахстане и в мире за счет повышения качества образовательных услуг и соответствия международным стандартам технического высшего образования. 2. Оказывать поддержку устойчивому росту научно-исследовательской деятельности ППС, мотивировать к повышению их образования, научной квалификации, путем организации и проведения конференций и посещения семинаров и курсов. 3. Интегрироваться в мировой образовательный процесс путем налаживания взаимовыгодного сотрудничества с ведущими зарубежными университетами, а также международными поставщиками программного и аппаратного обеспечения для установления связей, направленных на повышение общего качества ИТ-специалистов. 4. Привлечение студентов и участников ВУЗов к научно-исследовательской и проектной инициативе путем повышения качества участия студента в проектных конкурсах и конкурсах, инновационных проектах за счет использования исследовательской инфраструктуры КБТУ, участия в различных местных и международных олимпиадах по программированию. 5. Обеспечить качество образования за счет улучшения кадрового поиска, привлечения одаренных студентов из различных ведущих вузов Казахстана и зарубежья, увеличения количества образовательных университетских (внутренних, негосударственных) стипендий или освобождений от платы за обучение для талантливых студентов.",
+            "specialities": [
+              {
+                "speciality": "Information Systems",
+                "alt_name_IS": [
+                  "Информационные системы",
+                  "ИС",
+                  "Information Systems",
+                  "IS"
+                ],
+                "degree": "Bachelor",
+                "alt_degree": [
+                  "Бакалавр",
+                  "Bachelor"
+                ],
+                "total_credits": 240,
+                "tracks": [
+                  {}
+                ]
+              }
+            ],
+            "famous_asked_questions": [
+              {
+                "question": "как получить справку о статусе студента?",
+                "answer": [
+                  {
+                    "step1": "Отправить запрос в Офис Регистратор через систему UNINET (https://wsp.kbtu.kz/ зайти через логин и пароль студента далее ссылка 'Запросы студента')",
+                    "step2": "Заявка будет рассматриваться в течение 3-х дней.",
+                    "step3": "Данная справка отправляется на электронную почту студента или можно забрать оригинал в ОР (со стороны Панфилова, 2 этаж)."
+                  }
+                ]
+              },
+              {
+                "question": "как получить ONAY, ОҢАЙ, ОНАЙ, транспортную карту",
+                "answer": [
+                  {
+                    "step1": "Для получения карты студента «Онай» необходимо предоставить на почту fit_1course@kbtu.kz (*с указанием в теме письма «Онай карта», также отправка строго с корпоративной почты) Ф.И.О. полностью как в удостоверении, а также перечень следующих документов:",
+                    "documents": [
+                      "Удостоверение личности c двух сторон (паспорт (с ИИН)",
+                      "Номер мобильного телефона",
+                      "Справка с учебного заведения не более 5 дней с даты получения (справка с учебного заведения выдаётся в личном кабинете на wsp.kbtu.kz)",
+                      "Фото 3х4 (1 шт.) в деловом формате (без фильтров)"
+                    ]
+                  }
+                ]
+              },
+              {
+                "question": [
+                  "как оформить стипендию?",
+                  "как открыть счёт стипендии"
+                ],
+                "answer": "Карты студенты открывают обычные (не стипендиальные). После получения 20-ти значного счета IBAN студенты сдают эти данные в Деканаты. РЕКВИЗИТЫ ВЫГРУЖАЮТСЯ ИЗ ПРИЛОЖЕНИЯ БАНКА ИЛИ ЖЕ БЕРУТСЯ В ОТДЕЛЕНИИ БАНКА."
+              },
+              {
+                "question": [
+                  "студенческий взнос",
+                  "student fee",
+                  "обязательно ли платить студенческий взнос",
+                  "кому можно не платить за студенческий взнос"
+                ],
+                "answer": [
+                  {
+                    "eligible_not_to_pay_student_fee": [
+                      "студенты у кого Родители-пенсионеры (оба родителя)",
+                      "Сирота под опекой/ без опеки",
+                      ".Родители-инвалиды (один или оба)",
+                      "Лица казахской национальности, нерезиденты",
+                      "Многодетная семья (4 и более детей)",
+                      "Неполная семья (развод родителей или смерть одного из родителей)",
+                      "Лицо с особыми образовательными потребностями (инвалид) 1, 2, 3 группы",
+                      "Малоимущие (справка АСП с ЦОНа)",
+                      "Отслужившие в армии без ЕНТ"
+                    ],
+                    "important_note": "При опоздании с отправкой льготных документов, студенческий взнос будет автоматически начислен системой всем студентам 1 курса без исключения. Бухгалтерия не располагает возможностью отменять начисления такого рода, если студ. взнос будет начислен - необходимо будет его оплачивать.",
+                    "student_fee_definition":"Согласно Договора об оказании образовательных услуг,  студент обязуется в каждом семестре в период всего обучения оплачивать Студенческий взнос (Student fee), направленный на проведение студенческих мероприятий и иных студенческих инициатив в Университете и за его пределами в размере, установленном решением Правления Университета. От оплаты за Студенческий взнос (Student fee) освобождаются лица, подтвердившие свой социальный статус.",
+                    "additional_info":"https://kbtu.edu.kz/ru/latest-news/2570-studencheskij-vznos-student-fee"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "admission": [
+      {
+        "admission_link": "https://admission.kbtu.kz",
+        "bachelor_admission": [
+          {
+            "admission_links": [
+              {
+                "telegram_bachelor_admission": "https://t.me/kbtuadmission2024",
+                "instagram_bachelor_admission": "https://www.instagram.com/kbtu_admission/",
+                "whatsapp_bachelor_admission": "https://api.whatsapp.com/send/?phone=77058873813&text=Добрый+день%21+Хочу+спросить+касательно+поступления+в+КБТУ.&type=phone_number&app_absent=0",
+                "facebook_bachelor_admission": "https://www.facebook.com/groups/kbtuofficialgroup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "alternate_names": [
       "KBTU",
       "КБТУ",
@@ -232,250 +350,250 @@
       {
         "name": "MLSA KBTU",
         "description": "Сообщество разработчиков стэка Microsoft. Капитан - Альтаир, профессор Владимир Попов",
-        "social_link": "https://www.instagram.com/ai_kbtu/",
+        "social_link": "t.me/KBTU_MLSA",
         "activities": "Лекции, встречи, хакатоны, воркшопы, разработка проектов, открытые курсы и сертификации",
         "frequency": "Еженедельно в 154 кабинете"
       }
     ]
   },
-{
-  "id": "5",
-  "name": "Казахский национальный медицинский университет имени С.Д. Асфендиярова",
-  "location": "Алматы",
-  "description": "Ведущий медицинский университет Казахстана.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knmu.png",
-  "website_url": "https://www.kaznmu.kz",
-  "established_year": 1930,
-  "type": "Государственный",
-  "ranking": 5,
-  "tuition_fees": 2000,
-  "acceptance_rate": 55,
-  "contact_email": "info@kaznmu.kz",
-  "contact_phone": "+7-727-338-7070"
-},
-{
-  "id": "6",
-  "name": "Алматинский университет менеджмента",
-  "location": "Алматы",
-  "description": "Лидер в области бизнес-образования в Казахстане.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/almau.png",
-  "website_url": "https://www.almau.edu.kz",
-  "established_year": 1988,
-  "type": "Частный",
-  "ranking": 6,
-  "tuition_fees": 4000,
-  "acceptance_rate": 50,
-  "contact_email": "info@almau.edu.kz",
-  "contact_phone": "+7-727-313-3030"
-},
-{
-  "id": "7",
-  "name": "Казахская академия транспорта и коммуникаций имени М.Тынышпаева",
-  "location": "Алматы",
-  "description": "Крупный технический университет, специализирующийся на транспорте и коммуникациях.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazatk.png",
-  "website_url": "https://www.kazatk.kz",
-  "established_year": 1931,
-  "type": "Государственный",
-  "ranking": 7,
-  "tuition_fees": 2500,
-  "acceptance_rate": 60,
-  "contact_email": "info@kazatk.kz",
-  "contact_phone": "+7-727-292-0202"
-},
-{
-  "id": "8",
-  "name": "Университет Нархоз",
-  "location": "Алматы",
-  "description": "Известный университет в области экономики и финансов.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/narxoz.png",
-  "website_url": "https://www.narxoz.kz",
-  "established_year": 1963,
-  "type": "Частный",
-  "ranking": 8,
-  "tuition_fees": 3000,
-  "acceptance_rate": 65,
-  "contact_email": "info@narxoz.kz",
-  "contact_phone": "+7-727-377-9999"
-},
-{
-  "id": "9",
-  "name": "Казахский национальный аграрный университет",
-  "location": "Алматы",
-  "description": "Ведущий университет в области сельского хозяйства и аграрных наук.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznau.png",
-  "website_url": "https://www.kaznau.kz",
-  "established_year": 1929,
-  "type": "Государственный",
-  "ranking": 9,
-  "tuition_fees": 1500,
-  "acceptance_rate": 70,
-  "contact_email": "info@kaznau.kz",
-  "contact_phone": "+7-727-264-0000"
-},
-{
-  "id": "10",
-  "name": "Алматинский технологический университет",
-  "location": "Алматы",
-  "description": "Известен своими программами в области технологии и инженерии.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/atu.png",
-  "website_url": "https://www.atu.kz",
-  "established_year": 1957,
-  "type": "Государственный",
-  "ranking": 10,
-  "tuition_fees": 2000,
-  "acceptance_rate": 60,
-  "contact_email": "info@atu.kz",
-  "contact_phone": "+7-727-237-1212"
-},
-{
-  "id": "11",
-  "name": "Университет Сулеймана Демиреля",
-  "location": "Алматы",
-  "description": "Известный университет с сильными программами в области IT и бизнеса.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/sdu.png",
-  "website_url": "https://www.sdu.edu.kz",
-  "established_year": 1996,
-  "type": "Частный",
-  "ranking": 11,
-  "tuition_fees": 3500,
-  "acceptance_rate": 55,
-  "contact_email": "info@sdu.edu.kz",
-  "contact_phone": "+7-727-307-9555"
-},
-{
-  "id": "12",
-  "name": "Казахский государственный женский педагогический университет",
-  "location": "Алматы",
-  "description": "Специализируется на подготовке педагогических кадров.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazgugz.png",
-  "website_url": "https://www.kazgugz.edu.kz",
-  "established_year": 1944,
-  "type": "Государственный",
-  "ranking": 12,
-  "tuition_fees": 1200,
-  "acceptance_rate": 70,
-  "contact_email": "info@kazgugz.edu.kz",
-  "contact_phone": "+7-727-233-7000"
-},
-{
-  "id": "13",
-  "name": "Казахская национальная консерватория имени Курмангазы",
-  "location": "Алматы",
-  "description": "Главный музыкальный вуз Казахстана.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knk.png",
-  "website_url": "https://www.conservatoire.kz",
-  "established_year": 1944,
-  "type": "Государственный",
-  "ranking": 13,
-  "tuition_fees": 2000,
-  "acceptance_rate": 65,
-  "contact_email": "info@conservatoire.kz",
-  "contact_phone": "+7-727-272-7900"
-},
-{
-  "id": "14",
-  "name": "Казахский национальный университет искусств",
-  "location": "Алматы",
-  "description": "Известен своими программами в области искусства и культуры.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznai.png",
-  "website_url": "https://www.kaznai.kz",
-  "established_year": 1978,
-  "type": "Государственный",
-  "ranking": 14,
-  "tuition_fees": 2200,
-  "acceptance_rate": 60,
-  "contact_email": "info@kaznai.kz",
-  "contact_phone": "+7-727-272-7400"
-},
-{
-  "id": "15",
-  "name": "Казахский национальный педагогический университет имени Абая",
-  "location": "Алматы",
-  "description": "Старейший педагогический вуз Казахстана.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznpu.png",
-  "website_url": "https://www.kaznpu.kz",
-  "established_year": 1928,
-  "type": "Государственный",
-  "ranking": 15,
-  "tuition_fees": 1300,
-  "acceptance_rate": 70,
-  "contact_email": "info@kaznpu.kz",
-  "contact_phone": "+7-727-291-3600"
-},
-{
-  "id": "16",
-  "name": "Алматинский медицинский университет",
-  "location": "Алматы",
-  "description": "Современный университет с программами в области медицины.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/amu.png",
-  "website_url": "https://www.amu.kz",
-  "established_year": 2000,
-  "type": "Частный",
-  "ranking": 16,
-  "tuition_fees": 2500,
-  "acceptance_rate": 65,
-  "contact_email": "info@amu.kz",
-  "contact_phone": "+7-727-377-7777"
-},
-{
-  "id": "17",
-  "name": "Казахский университет международных отношений и мировых языков имени Абылай хана",
-  "location": "Алматы",
-  "description": "Специализируется на подготовке специалистов в области международных отношений и языков.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazumo.png",
-  "website_url": "https://www.ablaikhan.kz",
-  "established_year": 1941,
-  "type": "Государственный",
-  "ranking": 17,
-  "tuition_fees": 1400,
-  "acceptance_rate": 70,
-  "contact_email": "info@ablaikhan.kz",
-  "contact_phone": "+7-727-292-0500"
-},
-{
-  "id": "18",
-  "name": "Казахский экономический университет имени Т. Рыскулова",
-  "location": "Алматы",
-  "description": "Известный экономический вуз Казахстана.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kue.png",
-  "website_url": "https://www.kue.kz",
-  "established_year": 1963,
-  "type": "Государственный",
-  "ranking": 18,
-  "tuition_fees": 1800,
-  "acceptance_rate": 65,
-  "contact_email": "info@kue.kz",
-  "contact_phone": "+7-727-377-7666"
-},
-{
-  "id": "19",
-  "name": "Алматинский гуманитарно-экономический университет",
-  "location": "Алматы",
-  "description": "Современный университет с программами в области экономики и гуманитарных наук.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/agu.png",
-  "website_url": "https://www.agu.kz",
-  "established_year": 1996,
-  "type": "Частный",
-  "ranking": 19,
-  "tuition_fees": 2200,
-  "acceptance_rate": 60,
-  "contact_email": "info@agu.kz",
-  "contact_phone": "+7-727-377-8787"
-},
-{
-  "id": "20",
-  "name": "Казахская национальная академия хореографии",
-  "location": "Алматы",
-  "description": "Уникальный вуз, специализирующийся на хореографии.",
-  "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kna.png",
-  "website_url": "https://www.kna.kz",
-  "established_year": 2016,
-  "type": "Государственный",
-  "ranking": 20,
-  "tuition_fees": 2500,
-  "acceptance_rate": 50,
-  "contact_email": "info@kna.kz",
-  "contact_phone": "+7-727-377-9999"
-}
+  {
+    "id": "5",
+    "name": "Казахский национальный медицинский университет имени С.Д. Асфендиярова",
+    "location": "Алматы",
+    "description": "Ведущий медицинский университет Казахстана.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knmu.png",
+    "website_url": "https://www.kaznmu.kz",
+    "established_year": 1930,
+    "type": "Государственный",
+    "ranking": 5,
+    "tuition_fees": 2000,
+    "acceptance_rate": 55,
+    "contact_email": "info@kaznmu.kz",
+    "contact_phone": "+7-727-338-7070"
+  },
+  {
+    "id": "6",
+    "name": "Алматинский университет менеджмента",
+    "location": "Алматы",
+    "description": "Лидер в области бизнес-образования в Казахстане.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/almau.png",
+    "website_url": "https://www.almau.edu.kz",
+    "established_year": 1988,
+    "type": "Частный",
+    "ranking": 6,
+    "tuition_fees": 4000,
+    "acceptance_rate": 50,
+    "contact_email": "info@almau.edu.kz",
+    "contact_phone": "+7-727-313-3030"
+  },
+  {
+    "id": "7",
+    "name": "Казахская академия транспорта и коммуникаций имени М.Тынышпаева",
+    "location": "Алматы",
+    "description": "Крупный технический университет, специализирующийся на транспорте и коммуникациях.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazatk.png",
+    "website_url": "https://www.kazatk.kz",
+    "established_year": 1931,
+    "type": "Государственный",
+    "ranking": 7,
+    "tuition_fees": 2500,
+    "acceptance_rate": 60,
+    "contact_email": "info@kazatk.kz",
+    "contact_phone": "+7-727-292-0202"
+  },
+  {
+    "id": "8",
+    "name": "Университет Нархоз",
+    "location": "Алматы",
+    "description": "Известный университет в области экономики и финансов.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/narxoz.png",
+    "website_url": "https://www.narxoz.kz",
+    "established_year": 1963,
+    "type": "Частный",
+    "ranking": 8,
+    "tuition_fees": 3000,
+    "acceptance_rate": 65,
+    "contact_email": "info@narxoz.kz",
+    "contact_phone": "+7-727-377-9999"
+  },
+  {
+    "id": "9",
+    "name": "Казахский национальный аграрный университет",
+    "location": "Алматы",
+    "description": "Ведущий университет в области сельского хозяйства и аграрных наук.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznau.png",
+    "website_url": "https://www.kaznau.kz",
+    "established_year": 1929,
+    "type": "Государственный",
+    "ranking": 9,
+    "tuition_fees": 1500,
+    "acceptance_rate": 70,
+    "contact_email": "info@kaznau.kz",
+    "contact_phone": "+7-727-264-0000"
+  },
+  {
+    "id": "10",
+    "name": "Алматинский технологический университет",
+    "location": "Алматы",
+    "description": "Известен своими программами в области технологии и инженерии.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/atu.png",
+    "website_url": "https://www.atu.kz",
+    "established_year": 1957,
+    "type": "Государственный",
+    "ranking": 10,
+    "tuition_fees": 2000,
+    "acceptance_rate": 60,
+    "contact_email": "info@atu.kz",
+    "contact_phone": "+7-727-237-1212"
+  },
+  {
+    "id": "11",
+    "name": "Университет Сулеймана Демиреля",
+    "location": "Алматы",
+    "description": "Известный университет с сильными программами в области IT и бизнеса.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/sdu.png",
+    "website_url": "https://www.sdu.edu.kz",
+    "established_year": 1996,
+    "type": "Частный",
+    "ranking": 11,
+    "tuition_fees": 3500,
+    "acceptance_rate": 55,
+    "contact_email": "info@sdu.edu.kz",
+    "contact_phone": "+7-727-307-9555"
+  },
+  {
+    "id": "12",
+    "name": "Казахский государственный женский педагогический университет",
+    "location": "Алматы",
+    "description": "Специализируется на подготовке педагогических кадров.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazgugz.png",
+    "website_url": "https://www.kazgugz.edu.kz",
+    "established_year": 1944,
+    "type": "Государственный",
+    "ranking": 12,
+    "tuition_fees": 1200,
+    "acceptance_rate": 70,
+    "contact_email": "info@kazgugz.edu.kz",
+    "contact_phone": "+7-727-233-7000"
+  },
+  {
+    "id": "13",
+    "name": "Казахская национальная консерватория имени Курмангазы",
+    "location": "Алматы",
+    "description": "Главный музыкальный вуз Казахстана.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/knk.png",
+    "website_url": "https://www.conservatoire.kz",
+    "established_year": 1944,
+    "type": "Государственный",
+    "ranking": 13,
+    "tuition_fees": 2000,
+    "acceptance_rate": 65,
+    "contact_email": "info@conservatoire.kz",
+    "contact_phone": "+7-727-272-7900"
+  },
+  {
+    "id": "14",
+    "name": "Казахский национальный университет искусств",
+    "location": "Алматы",
+    "description": "Известен своими программами в области искусства и культуры.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznai.png",
+    "website_url": "https://www.kaznai.kz",
+    "established_year": 1978,
+    "type": "Государственный",
+    "ranking": 14,
+    "tuition_fees": 2200,
+    "acceptance_rate": 60,
+    "contact_email": "info@kaznai.kz",
+    "contact_phone": "+7-727-272-7400"
+  },
+  {
+    "id": "15",
+    "name": "Казахский национальный педагогический университет имени Абая",
+    "location": "Алматы",
+    "description": "Старейший педагогический вуз Казахстана.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kaznpu.png",
+    "website_url": "https://www.kaznpu.kz",
+    "established_year": 1928,
+    "type": "Государственный",
+    "ranking": 15,
+    "tuition_fees": 1300,
+    "acceptance_rate": 70,
+    "contact_email": "info@kaznpu.kz",
+    "contact_phone": "+7-727-291-3600"
+  },
+  {
+    "id": "16",
+    "name": "Алматинский медицинский университет",
+    "location": "Алматы",
+    "description": "Современный университет с программами в области медицины.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/amu.png",
+    "website_url": "https://www.amu.kz",
+    "established_year": 2000,
+    "type": "Частный",
+    "ranking": 16,
+    "tuition_fees": 2500,
+    "acceptance_rate": 65,
+    "contact_email": "info@amu.kz",
+    "contact_phone": "+7-727-377-7777"
+  },
+  {
+    "id": "17",
+    "name": "Казахский университет международных отношений и мировых языков имени Абылай хана",
+    "location": "Алматы",
+    "description": "Специализируется на подготовке специалистов в области международных отношений и языков.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kazumo.png",
+    "website_url": "https://www.ablaikhan.kz",
+    "established_year": 1941,
+    "type": "Государственный",
+    "ranking": 17,
+    "tuition_fees": 1400,
+    "acceptance_rate": 70,
+    "contact_email": "info@ablaikhan.kz",
+    "contact_phone": "+7-727-292-0500"
+  },
+  {
+    "id": "18",
+    "name": "Казахский экономический университет имени Т. Рыскулова",
+    "location": "Алматы",
+    "description": "Известный экономический вуз Казахстана.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kue.png",
+    "website_url": "https://www.kue.kz",
+    "established_year": 1963,
+    "type": "Государственный",
+    "ranking": 18,
+    "tuition_fees": 1800,
+    "acceptance_rate": 65,
+    "contact_email": "info@kue.kz",
+    "contact_phone": "+7-727-377-7666"
+  },
+  {
+    "id": "19",
+    "name": "Алматинский гуманитарно-экономический университет",
+    "location": "Алматы",
+    "description": "Современный университет с программами в области экономики и гуманитарных наук.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/agu.png",
+    "website_url": "https://www.agu.kz",
+    "established_year": 1996,
+    "type": "Частный",
+    "ranking": 19,
+    "tuition_fees": 2200,
+    "acceptance_rate": 60,
+    "contact_email": "info@agu.kz",
+    "contact_phone": "+7-727-377-8787"
+  },
+  {
+    "id": "20",
+    "name": "Казахская национальная академия хореографии",
+    "location": "Алматы",
+    "description": "Уникальный вуз, специализирующийся на хореографии.",
+    "logo_url": "https://your-bucket-name.s3.region.amazonaws.com/logos/kna.png",
+    "website_url": "https://www.kna.kz",
+    "established_year": 2016,
+    "type": "Государственный",
+    "ranking": 20,
+    "tuition_fees": 2500,
+    "acceptance_rate": 50,
+    "contact_email": "info@kna.kz",
+    "contact_phone": "+7-727-377-9999"
+  }
 ]
