@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const HeroSection = () => {
   return (
@@ -11,7 +12,7 @@ const HeroSection = () => {
           Найдите всю необходимую информацию о вашем университете в одном месте
         </p>
         <button className="bg-blue-600 text-white px-6 py-3 rounded-lg text-lg font-semibold">
-          Найти информацию
+          <Link href='uni-list'>Найти информацию</Link>
         </button>
       </div>
     </section>

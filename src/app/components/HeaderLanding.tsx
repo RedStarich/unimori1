@@ -1,8 +1,16 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
+import Link from 'next/link';
+import { HiMenu, HiX } from 'react-icons/hi';
 
 const Header = () => {
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setMenuOpen(!menuOpen);
+  };
+
   const handleScroll = (event: React.MouseEvent<HTMLAnchorElement, MouseEvent>, targetId: string) => {
     event.preventDefault();
     const targetElement = document.getElementById(targetId);
@@ -12,16 +20,43 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-white shadow">
+    <header className="bg-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center p-4">
-        <h1 className="text-2xl font-bold text-blue-600">Unimori.ai</h1>
-        <nav>
-          <a href="#about" onClick={(e) => handleScroll(e, 'about')} className="ml-4 cursor-pointer text-gray-700">О нас</a>
-          <a href="#features" onClick={(e) => handleScroll(e, 'features')} className="ml-4 cursor-pointer text-gray-700">Особенности</a>
-          <a href="#how-it-works" onClick={(e) => handleScroll(e, 'how-it-works')} className="ml-4 cursor-pointer text-gray-700">Как это работает</a>
-          <a href="#join-us" onClick={(e) => handleScroll(e, 'join-us')} className="ml-4 cursor-pointer text-gray-700">Присоединяйтесь</a>
-        </nav>
+        <Link href="/" passHref>
+          <button className="text-2xl font-bold text-blue-600 bg-transparent border-none cursor-pointer">
+            Unimori.ai
+          </button>
+        </Link>
+        <div className="hidden md:flex space-x-8 items-center">
+          <a href="#about" onClick={(e) => handleScroll(e, 'about')} className="cursor-pointer text-gray-700 hover:text-blue-600 transition duration-300">О нас</a>
+          <a href="#features" onClick={(e) => handleScroll(e, 'features')} className="cursor-pointer text-gray-700 hover:text-blue-600 transition duration-300">Особенности</a>
+          <a href="#how-it-works" onClick={(e) => handleScroll(e, 'how-it-works')} className="cursor-pointer text-gray-700 hover:text-blue-600 transition duration-300">Как это работает</a>
+          <a href="#join-us" onClick={(e) => handleScroll(e, 'join-us')} className="cursor-pointer text-gray-700 hover:text-blue-600 transition duration-300">Присоединяйтесь</a>
+        </div>
+        <div className="md:hidden">
+          <button onClick={toggleMenu} className="text-blue-600 focus:outline-none">
+            {menuOpen ? <HiX size={28} /> : <HiMenu size={28} />}
+          </button>
+        </div>
       </div>
+      {menuOpen && (
+        <nav className="md:hidden bg-white shadow-lg">
+          <ul className="space-y-4 p-4">
+            <li>
+              <a href="#about" onClick={(e) => { handleScroll(e, 'about'); setMenuOpen(false); }} className="text-gray-700 block">О нас</a>
+            </li>
+            <li>
+              <a href="#features" onClick={(e) => { handleScroll(e, 'features'); setMenuOpen(false); }} className="text-gray-700 block">Особенности</a>
+            </li>
+            <li>
+              <a href="#how-it-works" onClick={(e) => { handleScroll(e, 'how-it-works'); setMenuOpen(false); }} className="text-gray-700 block">Как это работает</a>
+            </li>
+            <li>
+              <a href="#join-us" onClick={(e) => { handleScroll(e, 'join-us'); setMenuOpen(false); }} className="text-gray-700 block">Присоединяйтесь</a>
+            </li>
+          </ul>
+        </nav>
+      )}
     </header>
   );
 };
