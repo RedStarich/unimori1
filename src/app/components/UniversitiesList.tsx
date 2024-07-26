@@ -77,7 +77,7 @@ const UniversitiesList: React.FC = () => {
     <div className="container mx-auto px-4">
       <div className="flex flex-col justify-center items-center text-center my-8">
         <img src="/images/siba-uni-list.png" alt="Unimori.ai Logo" className="w-20 h-20 md:w-32 md:h-32" />
-        <h1 className="text-3xl md:text-4xl font-bold mb-2">Привет Altair, я Сиба Юни 🧡💙</h1>
+        <h1 className="text-3xl md:text-4xl font-bold mb-2">Привет, я Сиба Юни 🧡💙</h1>
         <p className="text-lg md:text-xl">Я могу помочь тебе с подбором университета!</p>
       </div>
       <div className="flex justify-center mb-8">
