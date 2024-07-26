@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState, useMemo } from 'react';
-import Link from 'next/link';
+import UniversityCard from './UniCard'; // Import the new component
 
 interface University {
   _id: string;
@@ -74,25 +74,25 @@ const UniversitiesList: React.FC = () => {
   }
 
   return (
-    <div>
-      <h2 className="text-2xl font-bold mb-4">Universities in Kazakhstan</h2>
-      <input
-        type="text"
-        placeholder="Search universities..."
-        value={searchQuery}
-        onChange={(e) => setSearchQuery(e.target.value)}
-        className="mb-4 p-2 border border-gray-300 rounded"
-      />
+    <div className="container mx-auto px-4">
+      <div className="flex flex-col justify-center items-center text-center my-8">
+        <img src="/images/siba-uni-list.png" alt="Unimori.ai Logo" className="w-20 h-20 md:w-32 md:h-32" />
+        <h1 className="text-3xl md:text-4xl font-bold mb-2">Привет Altair, я Сиба Юни 🧡💙</h1>
+        <p className="text-lg md:text-xl">Я могу помочь тебе с подбором университета!</p>
+      </div>
+      <div className="flex justify-center mb-8">
+        <input
+          type="text"
+          placeholder="Начни поиск"
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          className="p-2 md:p-4 border border-gray-300 rounded w-full max-w-lg"
+        />
+      </div>
       <ul className="space-y-4">
         {filteredUniversities.map((uni) => (
-          <li key={uni._id} className="bg-white shadow rounded p-4">
-            <h3 className="text-xl font-semibold">{uni.name}</h3>
-            <p className="text-gray-700">{uni.description}</p>
-            <Link href={`/uni-list/${encodeURIComponent(uni.name)}`}>
-              <p className="text-blue-500 hover:underline mt-2 block">
-                Visit university page
-              </p>
-            </Link>
+          <li key={uni._id}>
+            <UniversityCard university={uni} />
           </li>
         ))}
       </ul>
