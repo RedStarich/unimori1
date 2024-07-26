@@ -119,11 +119,11 @@ const UniversityPage: React.FC = () => {
             <div className="p-4 bg-gray-100 rounded-lg">
               <h2 className="text-xl font-semibold">Details</h2>
               <ul className="mt-2 space-y-1">
-                <li><strong>Established Year:</strong> {university.established_year}</li>
-                <li><strong>Type:</strong> {university.type}</li>
-                <li><strong>Ranking:</strong> {university.ranking}</li>
-                <li><strong>Tuition Fees:</strong> ${university.tuition_fees}</li>
+                <li><strong>Год основания:</strong> {university.established_year}</li>
+                <li><strong>Тип:</strong> {university.type}</li>
+                <li><strong>Период обучения:</strong> {university.ranking}</li>
                 <li><strong>Acceptance Rate:</strong> {university.acceptance_rate}%</li>
+                <li><strong>Средняя стоимость обучения:</strong> ${university.tuition_fees}</li>
               </ul>
             </div>
             <div className="p-4 bg-gray-100 rounded-lg">

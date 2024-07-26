@@ -575,7 +575,945 @@
         "activities": "Лекции, встречи, хакатоны, воркшопы, разработка проектов, открытые курсы и сертификации",
         "frequency": "Еженедельно в 154 кабинете"
       }
+    ],
+    "violation_evaluation": [
+      {
+        "DocumentTitle": "Corporate Standard ISM KBTU 32-1-24",
+        "GeneralInfo": {
+          "DevelopedBy": "Chairman of the Disciplinary Committee",
+          "ApprovedBy": "Decision of the Board of JSC \"Kazakhstan-British Technical University\" from 22.04.2024 No. 6"
+        },
+        "Sections": [
+          {
+            "Title": "1. PURPOSE",
+            "Content": "The present Corporate Standard of JSC \"Kazakhstan-British Technical University\" \"Procedure for Considering Violations by Students and Applying Disciplinary Measures\" (hereinafter - the Procedure) is developed to establish the powers of the Disciplinary Committee, the algorithm and criteria for considering violations by students of the terms of contracts, internal regulatory documents of JSC \"Kazakhstan-British Technical University\" (hereinafter - KBTU, university), as well as fair application of disciplinary measures to them."
+          },
+          {
+            "Title": "2. SCOPE",
+            "Content": "The requirements of this Procedure apply to all students of KBTU, officials, and divisions of KBTU and are mandatory for implementation."
+          },
+          {
+            "Title": "3. TERMS AND DEFINITIONS",
+            "Content": {
+              "3.1": {
+                "CS ISM": "corporate standard of ISM",
+                "ISM": "integrated management system",
+                "KBTU": "JSC \"Kazakhstan-British Technical University\"",
+                "SB": "Security Service",
+                "DMiS": "House of Undergraduates and Students",
+                "PPS": "professor-teaching staff",
+                "DSV": "Department for Student Affairs",
+                "SP": "Student Government",
+                "Committee": "Disciplinary Committee",
+                "Council": "Council for the Prevention of Violations in DMiS"
+              }
+            }
+          },
+          {
+            "Title": "4. GROUNDS FOR APPLYING DISCIPLINARY MEASURES",
+            "Content": "Grounds for applying disciplinary measures include violation of academic discipline, internal rules, ethical code of students, housing and residence rules in DMiS, credit technology training rules at KBTU, other regulatory documents, rules and requirements established by internal regulatory documents of KBTU and conditions of contracts for the provision of educational services concluded with them (disciplinary offense)."
+          },
+          {
+            "Title": "5. TYPES OF VIOLATIONS",
+            "Content": [
+              {
+                "Type": "Minor Violations",
+                "Examples": [
+                  "Violation of quiet hours after 23.00",
+                  "Lateness in DMiS after established time",
+                  "Absence in DMiS at night",
+                  "Improper use of electrical appliances"
+                ]
+              },
+              {
+                "Type": "Moderate Violations",
+                "Examples": [
+                  "Damage to university property",
+                  "Conflict situations",
+                  "Unauthorized relocation in the dormitory"
+                ]
+              },
+              {
+                "Type": "Severe Violations",
+                "Examples": [
+                  "Participation in fights",
+                  "Violation of public order",
+                  "Theft"
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "6. COMPOSITION AND PROCEDURE FOR FORMING THE DISCIPLINARY COMMITTEE",
+            "Content": "The Disciplinary Committee is a collegial body created to consider issues related to the commission of disciplinary offenses by students of the University. The committee consists of at least 7 members including the chairman, members, and secretary."
+          },
+          {
+            "Title": "7. PROCEDURE FOR PREPARING AND HOLDING MEETINGS OF THE DISCIPLINARY COMMITTEE",
+            "Content": "Meetings are held as necessary based on service notes from the dean's office, other structural units or officials, or the Council for the Prevention of Violations in DMiS."
+          },
+          {
+            "Title": "8. PROCEDURE FOR APPLYING DISCIPLINARY MEASURES",
+            "Content": "Students are orally informed about the decision of the Committee within one working day from the date of signing the meeting minutes. The Office of the Registrar issues the corresponding order signed by the Rector within two working days."
+          },
+          {
+            "Title": "9. DISCIPLINARY MEASURES",
+            "Content": [
+              {
+                "Severity": "Minor Offenses",
+                "Measures": [
+                  "Remark",
+                  "Written warning",
+                  "Counseling"
+                ]
+              },
+              {
+                "Severity": "Moderate Offenses",
+                "Measures": [
+                  "Reprimand",
+                  "Letter to parents",
+                  "Letter to the legal entities financing the student's education"
+                ]
+              },
+              {
+                "Severity": "Severe Offenses",
+                "Measures": [
+                  "Severe reprimand recorded in the academic transcript",
+                  "Expulsion from DMiS",
+                  "Expulsion from the University"
+                ]
+              }
+            ]
+          },
+          {
+            "Title": "10. COUNCIL FOR THE PREVENTION OF VIOLATIONS IN DMIS",
+            "Content": "The Council for the Prevention of Violations in DMiS is created by the Rector's order and consists of the head of the Department for Student Affairs, the director of DMiS, and representatives of the Student Council of DMiS."
+          },
+          {
+            "Title": "11. RISKS OF THE PROCEDURE",
+            "Content": "Possible risks include lack of necessary quorum and disagreement with the decision of the committee."
+          },
+          {
+            "Title": "12. RECORDS",
+            "Content": "Records include the Rector's order on disciplinary measures, violation reports, and the registry of violations."
+          },
+          {
+            "Title": "13. RESPONSIBILITY",
+            "Content": "The Disciplinary Committee, Council for the Prevention of Violations in DMiS, and Deans are responsible for the timely collection of information, preparation of materials, and notification of meetings."
+          },
+          {
+            "Title": "14. REFERENCES",
+            "Content": [
+              "Law of the Republic of Kazakhstan \"On Education\"",
+              "Standard rules of educational organizations"
+            ]
+          },
+          {
+            "Title": "15. FINAL PROVISIONS",
+            "Content": "The Procedure comes into force after approval by the Board of KBTU. Changes and additions can be made by the decision of the Board."
+          }
+        ]
+      }
+    ],
+    "academic_policy_of_transfering_and_withdrawing":[
+      {
+        "DocumentTitle": "Corporate Standard ISM KBTU 51-1-22",
+        "GeneralInfo": {
+          "DevelopedBy": "Educational and Methodological Center",
+          "PreapprovedBy": "Decision of the Academic Council of JSC \"Kazakhstan-British Technical University\" from 31 March 2022 No. 11",
+          "ApprovedBy": "Decision of the Board of JSC \"Kazakhstan-British Technical University\" from 30 May 2022 No. 5"
+        },
+        "Sections": [
+          {
+            "Title": "1. PURPOSE",
+            "Content": "The present Corporate Standard of JSC \"Kazakhstan-British Technical University\" \"Academic Policy. Transfer, Restoration and Expulsion of Students. Academic Leave\" (hereinafter - the Rules) is developed for organizing and conducting the educational process using credit technology at JSC \"KBTU\" (hereinafter - KBTU)."
+          },
+          {
+            "Title": "2. SCOPE",
+            "Content": "The requirements of these Rules apply to all KBTU students in undergraduate programs and the structural units involved in the educational process: deans, the Office of the Registrar (OR), the Educational and Methodological Center (UMC), the Department of Accounting, Reporting and Finance (DABRF), and the Vice-Rector for Academic Affairs."
+          },
+          {
+            "Title": "3. TERMS AND DEFINITIONS",
+            "Content": {
+              "3.1": {
+                "ISM": "integrated management system",
+                "ISM Records": "document that records achieved activity results or evidence of work performed",
+                "CS ISM": "corporate standard of ISM",
+                "University": "JSC \"Kazakhstan-British Technical University\"",
+                "Academic Calendar": "calendar of educational and control events, professional practices during the academic year with indication of rest days (vacations and holidays)",
+                "Academic Transcript": "document of established form containing a list of completed disciplines and/or modules for the corresponding period of study with an indication of the number of credits, grades, and GPA",
+                "Individual Study Plan": "student's study plan, independently formed for each semester and/or academic year with the help of an advisor based on the educational program and catalog of elective disciplines and/or modules",
+                "Prerequisites": "disciplines and/or modules and other types of educational work containing the knowledge, skills, and competencies necessary for mastering the studied discipline and/or module",
+                "Postrequisites": "disciplines and/or modules and other types of educational work for the study of which the knowledge, skills, and competencies acquired upon completion of the studied discipline and/or module are required",
+                "AIS KBTU": "automated information system of KBTU for the educational process, implemented using internet technologies",
+                "Syllabus": "course program including a description of the studied discipline, goals and objectives of the discipline, brief content, topics and duration of each class, independent work assignments, office hours, instructor's requirements, assessment criteria, submission schedule, and a list of used literature",
+                "Curriculum": "document developed by KBTU based on the standard curriculum and elective discipline catalog of the educational program, containing the full list of compulsory, university component, and elective disciplines with the number of credits, sequence of study, types of educational activities, and forms of control",
+                "Catalog of Elective Disciplines": "list of elective disciplines providing students with the opportunity to choose alternative elective academic disciplines to form an individual educational trajectory",
+                "GPA": "Grade Point Average, the weighted average grade level of a student's academic achievements for the chosen program over an academic period",
+                "Academic Discipline": "set of requirements and norms established by these Rules and other internal documents of the University concerning the educational process",
+                "Advisor": "instructor performing the functions of an academic advisor for a student according to the corresponding educational program, assisting the student in choosing an educational trajectory (forming the Individual Study Plan) and mastering the educational program during the study period",
+                "Students": "students and cadets"
+              }
+            }
+          },
+          {
+            "Title": "4. TRANSFER AND RESTORATION PROCEDURE",
+            "Content": {
+              "Transfer and Restoration Rules at KBTU": [
+                "Students have the right to transfer to/from KBTU, from one specialty or educational program to another, from paid to state-funded education or from one form of education to another.",
+                "Students can transfer or restore after expulsion if they have successfully completed the first academic period of the studied program according to the Individual Study Plan.",
+                "A student can transfer or restore to any educational program regardless of the expulsion period.",
+                "Transfer from paid to state-funded education is carried out according to the legislation of the Republic of Kazakhstan.",
+                "When transferring students of the 2018 cohort to KBTU with their state grant, the field of training and the group of educational programs, as well as academic achievements, are considered."
+              ],
+              "Transfer Procedure from Another Higher Education Institution to KBTU": [
+                "The student submits a transfer application to the rector of their current university and, upon receiving written consent for the transfer with a seal, applies to the Rector (Chairman of the Board) of KBTU.",
+                "The application must include the official transcript sealed by the university, a copy of the Unified National Testing certificate, a copy of the state grant holder's certificate (if applicable), and the original transfer application to the head of the previous university.",
+                "The faculty/school council forms the student's individual educational trajectory, re-evaluates the completed credits according to KBTU's educational program, approves the Individual Study Plan, and determines the student's GPA.",
+                "Based on the dean's visa, the head of the OR issues an order from the Rector (Chairman of the Board) on the transfer to KBTU."
+              ],
+              "Transfer Procedure from One Educational Program to Another within KBTU": [
+                "Transfer is carried out only to the paid department. The student submits a transfer application agreed with the dean of their current faculty/school to the Rector (Chairman of the Board) of KBTU. The application includes an unofficial academic transcript sealed by the head of the OR.",
+                "The receiving faculty dean forms the student's educational trajectory considering the re-evaluated credits, approves the Individual Study Plan, and the OR prepares an order from the Rector (Chairman of the Board) on the transfer within KBTU."
+              ],
+              "Transfer to State-Funded Education": [
+                "A student on a paid basis has the right to transfer to a vacant state educational grant on a competitive basis. The competition is conducted based on the results of interim certification and GPA. An announcement about the competition is posted on KBTU's website and internal AIS.",
+                "In case of equal GPA indicators, preference is given to students with only A, A- grades, then A to B+, B, B-, C+ grades, and then mixed grades for the entire study period."
+              ],
+              "Restoration Procedure to Study at KBTU": [
+                "Students have the right to restore regardless of the expulsion period if the first academic period is successfully completed without academic debts. The credits earned before expulsion are fully counted.",
+                "Restoration is only to the paid department. The student submits a restoration application to the Rector (Chairman of the Board) through the OR, attaching an academic certificate and a copy of the identity card.",
+                "The faculty/school dean forms the individual educational trajectory considering the re-evaluated credits and the OR prepares an order from the Rector (Chairman of the Board) on restoration."
+              ]
+            }
+          },
+          {
+            "Title": "5. EXPULSION PROCEDURE FROM KBTU",
+            "Content": [
+              "Students can be expelled for academic failure, violating academic integrity principles, systematic or gross violation of academic discipline, University Charter, these Rules, internal regulations, or legislation of the Republic of Kazakhstan.",
+              "Expulsion for violation of internal regulations and the University Charter is applied after consideration by the Disciplinary Committee of KBTU.",
+              "If the study period exceeds the maximum period (currently 7 years), the student is subject to expulsion.",
+              "A student wishing to withdraw must submit an application to the Rector (Chairman of the Board) of KBTU."
+            ]
+          },
+          {
+            "Title": "6. ACADEMIC LEAVE PROCEDURE",
+            "Content": [
+              "Academic leave is granted for medical reasons, military service, or childbirth (adoption) with appropriate documentation. The student submits an application to the OR addressed to the Rector (Chairman of the Board) of KBTU.",
+              "The order is issued within three working days indicating the start and end dates of the leave.",
+              "During academic leave, state scholarships are not paid, except for leaves granted based on medical recommendations."
+            ]
+          },
+          {
+            "Title": "7. RESPONSIBILITY",
+            "Content": "Students, officials, and other employees involved in organizing and conducting the educational process must strictly comply with these Rules and are responsible for violations as per internal University documents."
+          },
+          {
+            "Title": "8. REFERENCES",
+            "Content": [
+              "Law of the Republic of Kazakhstan \"On Education\"",
+              "Rules for organizing the educational process using credit technology approved by the Order of the Ministry of Education and Science of the Republic of Kazakhstan from 20 April 2011 No. 152",
+              "Standard rules of activities of educational organizations implementing higher and (or) postgraduate education programs (Appendix 5 to the Order of the Minister of Education and Science of the Republic of Kazakhstan from 30 October 2018 No. 595)"
+            ]
+          },
+          {
+            "Title": "9. FINAL PROVISIONS",
+            "Content": "These Rules come into force after the decision of the Board of KBTU. Amendments and additions can be made by the Board's decision. If changes in Kazakhstan's legislation or the University Charter conflict with these Rules, the current normative legal acts of Kazakhstan will be followed until the Rules are updated accordingly."
+          }
+        ]
+      }
+      
+    ],
+    "credit_academic_system_rules":[
+      {
+        "DocumentTitle": "Corporate Standard ISM KBTU 51-2-23",
+        "GeneralInfo": {
+          "DevelopedBy": "Educational and Methodological Center",
+          "PreapprovedBy": "Decision of the Academic Council of JSC \"Kazakhstan-British Technical University\" from 2 August 2023 No. 11",
+          "ApprovedBy": "Decision of the Board of JSC \"Kazakhstan-British Technical University\" from 5 September 2023 No. 20"
+        },
+        "Sections": [
+          {
+            "Title": "1. PURPOSE",
+            "Content": "The present Corporate Standard of JSC \"Kazakhstan-British Technical University\" \"Academic Policy. Credit Technology of Education (Undergraduate)\" (hereinafter - the Rules) is developed for organizing and conducting the educational process using credit technology for undergraduate programs at JSC \"KBTU\"."
+          },
+          {
+            "Title": "2. SCOPE",
+            "Content": "The requirements of these Rules apply to all KBTU students in undergraduate programs and the structural units involved in the educational process: deans, the Office of the Registrar (OR), the Educational and Methodological Center (UMC), the Department of Accounting, Reporting and Finance (DABRF), and the Vice-Rector for Academic Affairs."
+          },
+          {
+            "Title": "3. TERMS AND DEFINITIONS",
+            "Content": {
+              "3.1": {
+                "GPA": "Grade Point Average",
+                "IUP": "Individual Study Plan",
+                "KBTU": "JSC \"Kazakhstan-British Technical University\"",
+                "MNVO RK": "Ministry of Science and Higher Education of the Republic of Kazakhstan",
+                "EP": "Educational Program",
+                "SRS": "Student's Independent Work",
+                "Office Hours (SRSP)": "Student's Independent Work under the guidance of a teacher",
+                "OR": "Office of the Registrar",
+                "KMA": "Kazakhstan Maritime Academy",
+                "CED": "Catalog of Elective Disciplines",
+                "AC": "Attestation Commission",
+                "Degree": "degree awarded to a graduate of a higher education institution based on the results of final attestation",
+                "Academic Mobility": "movement of students or teacher-researchers for study or research for a specific academic period (semester or academic year) to another higher and/or postgraduate education organization (within the country or abroad) with mandatory credit transfer of the studied programs, disciplines in the form of academic credits in their higher and/or postgraduate education organization or for continuing studies in another higher and/or postgraduate education organization",
+                "Academic Calendar": "calendar of educational and control events, professional practices during the academic year with indication of rest days (vacations and holidays)",
+                "Term": "period of theoretical training: a semester lasting 15 weeks",
+                "Academic Hour": "unit of measurement of the volume of academic activities or other types of educational work, 1 academic hour equals 50 minutes and is used when compiling the academic calendar (study process schedule), class schedule, when planning and accounting for the material covered, as well as when planning the teaching load and accounting for the teacher's work",
+                "Credit": "unified unit of measurement of the volume of scientific and/or educational work (load) of a student and/or teacher",
+                "AIS KBTU": "Automated Information System of KBTU for the educational process, implemented using internet technologies",
+                "Appeal": "procedure conducted to identify and eliminate factors that contributed to the biased assessment of students' knowledge",
+                "Undergraduate": "level of higher education aimed at preparing personnel with the award of a \"bachelor's\" degree in the relevant educational program with mandatory mastering of at least 240 academic credits",
+                "Bachelor": "degree awarded to persons who have mastered the educational programs of higher education",
+                "Descriptors": "description of the level and volume of knowledge, skills, abilities, and competencies acquired by students/cadets upon completion of the educational program of each level (stage) of higher and postgraduate education, based on learning outcomes, formed competencies, and academic credits",
+                "European Credit Transfer and Accumulation System (ECTS)": "method of transferring credits earned by a student abroad to credits that are counted for obtaining their degree upon return to their educational organization, as well as accumulating credits within educational programs",
+                "Enrollment": "procedure for registering students for academic disciplines",
+                "Individual Study Plan": "student's study plan, independently formed for each semester and/or academic year with the help of an advisor based on the educational program and catalog of elective disciplines",
+                "Qualification Examination": "procedure conducted to determine the degree of mastering the volume of academic subjects, disciplines and/or modules provided by the state compulsory standard of the corresponding level of education",
+                "Final Examination": "check of the student's academic achievements conducted in the form of an exam after completing the study of the discipline during the period of intermediate attestation",
+                "Cadets": "persons studying under the undergraduate program at the Kazakhstan Maritime Academy",
+                "Catalog of Elective Disciplines (CED)": "list of disciplines that provides students with the opportunity to choose alternative elective academic disciplines to form an individual educational trajectory",
+                "Competencies": "ability to practically apply the knowledge, skills, and abilities acquired in the learning process in professional activities",
+                "Credit Education": "learning based on the choice and independent planning by the student of the sequence of studying disciplines and/or modules with the accumulation of academic credits",
+                "Microqualification": "set of knowledge, skills, and competencies obtained upon completion of a short period of study, allowing the performance of individual work functions",
+                "Nano-credit": "unified unit of measurement of a small volume of educational material, having an independent and complete character",
+                "Stackable degree": "set of skills and competencies from various fields or areas of professional activity obtained through formal and informal education",
+                "Educational Program": "single complex of the main characteristics of education, including goals, learning outcomes, and content of education, organization of the educational process, methods and techniques of their implementation, criteria for assessing learning outcomes",
+                "Students": "persons studying under the undergraduate program",
+                "Core Subjects": "disciplines studied by all students/cadets on a mandatory basis",
+                "Office of the Registrar (OR)": "service engaged in registering students for taught disciplines, registering all their academic achievements throughout the study period, ensuring the organization of intermediate and final control of knowledge and calculating the academic rating",
+                "Retake of the final examination": "in case of receiving an unsatisfactory grade corresponding to the mark \"FX\", the student has the opportunity to retake the final examination without repeating the program of the academic discipline/module",
+                "Prerequisites": "disciplines and/or modules and other types of educational work containing the knowledge, skills, and competencies necessary for mastering the studied discipline and/or module",
+                "Postrequisites": "disciplines and/or modules and other types of educational work for the study of which the knowledge, skills, and competencies acquired upon completion of the studied discipline and/or module are required",
+                "Proctor": "observer of the examination process",
+                "Syllabus": "course program including a description of the studied discipline, goals and objectives of the discipline, brief content, topics and duration of each class, independent work assignments, office hours, instructor's requirements, assessment criteria, submission schedule, and a list of used literature",
+                "Curriculum": "document developed by KBTU based on the standard curriculum and elective discipline catalog of the educational program, containing the full list of compulsory, university component, and elective disciplines with the number of credits, sequence of study, types of educational activities, and forms of control",
+                "Learning Outcomes": "confirmed by assessment volume of knowledge, skills, and abilities acquired by students in mastering the educational program, formed values and attitudes",
+                "Retake": "re-study of a discipline in case of receiving an unsatisfactory final grade",
+                "Midterm": "check of academic achievements of students after completing a section (module) of the academic discipline, conducted by the teacher of this discipline in the 8th week of the semester",
+                "Grade Point Average (GPA)": "weighted average grade level of a student's academic achievements for the chosen program over an academic period",
+                "Transcript": "document of established form containing a list of completed disciplines for the corresponding period of study with an indication of the number of credits, grades, and GPA",
+                "Academic Discipline": "set of requirements and norms established by these Rules and other internal documents of the University concerning the educational process",
+                "Advisor": "instructor performing the functions of an academic advisor for a student according to the corresponding educational program, assisting the student in choosing an educational trajectory (forming the Individual Study Plan) and mastering the educational program during the study period",
+                "Elective Courses": "included in the university component and the elective component within the established academic credits and introduced by educational organizations, reflecting the individual preparation of the student, considering the specifics of the socio-economic development and needs of a particular region, established scientific schools",
+                "Electronic Signature": "combination of login and password assigned in the AIS KBTU",
+                "QMS KMA": "Quality Management System of the Kazakhstan Maritime Academy"
+              }
+            }
+          },
+          {
+            "Title": "4. GENERAL PROVISIONS",
+            "Content": [
+              "KBTU prepares specialists for higher education programs (bachelor's degree) using credit technology of education, the main task of which is to develop students' abilities for self-organization and self-education based on the choice of educational trajectory within the regulation of the educational process and accounting for the volume of knowledge in the form of credits.",
+              "Educational programs of specialties in the areas of personnel training are developed following the Dublin descriptors, agreed with the European Qualifications Framework. The Dublin descriptors, which are a description of the level and volume of knowledge, skills, abilities, and competencies acquired by students upon completion of the educational program of each level (stage) of higher and postgraduate education, are based on learning outcomes, formed competencies, and the total number of academic credits.",
+              "These Rules define the procedure for training students/cadets at JSC \"KBTU\" using credit technology of education, regulate the procedure for registering students for academic disciplines, conducting current, intermediate and final control, final attestation, assessment of students' knowledge, and more.",
+              "The volume of students' academic load is measured in academic credits mastered during the academic year for each academic discipline or module.",
+              "The number of academic disciplines is indicated in the working curricula of the educational program. The volume of a student's academic work for each discipline is usually 5 academic credits (less often - 3, 4 credits). Each discipline is usually studied for one semester.",
+              "An academic credit within the framework of ECTS is a unit of measurement of the discipline, both in classroom activities and during independent work. One academic credit equals 25-30 academic hours.",
+              "The academic year consists of academic periods (semester), final control (examination session), final attestation (for the final year), practices, and vacations. The academic period at KBTU is one semester lasting 15 weeks and at least 2 weeks of the examination session (final control).",
+              "The duration of the summer semester is 6 weeks, including the examination session. Exams are held at the end of the semester.",
+              "In the summer semester, a student can register for no more than 3 disciplines. The minimum number of students required to open a discipline in the summer semester is 10 people.",
+              "The summer semester is organized in the following cases:",
+              "- to meet the needs for additional training (those wishing to study disciplines conducted by leading scientists and professors invited to the University, including specialists from foreign countries, representatives of national and international companies, etc.);",
+              "- elimination of academic debts or differences in curricula;",
+              "- repeated study of disciplines for those wishing to improve their GPA;",
+              "- for mastering a related or additional educational program, including within the framework of dual degree education;",
+              "- for those wishing to shorten the period of study at the university.",
+              "The summer semester is not organized for cadets of the Kazakhstan Maritime Academy.",
+              "The year of study is determined by the number of credits earned from theoretical and practical training following the curriculum of the educational program. The maximum period of study at the University for undergraduate programs is 7 years.",
+              "Vacations are provided to students after each academic period. The duration of the total vacation time in the academic year should be at least 7 weeks. If a student studies in the summer semester, the duration of the vacation time is correspondingly reduced.",
+              "The main criterion for the completion of training under undergraduate programs is the mastering by the student of at least 240 academic credits ECTS for the entire period of study, including all types of educational activities of the student.",
+              "The duration of training under undergraduate programs is determined by the volume of academic credits mastered. Upon mastering the established volume of academic credits and achieving the expected learning outcomes to obtain a bachelor's degree, the higher education program is considered fully mastered.",
+              "The student is obliged to comply with academic discipline, attend all types of academic activities. In case of missing classes, promptly inform the dean's office of the reasons for the absence via corporate mail and present medical certificates to the dean's office as soon as possible, but no later than 3 working days from the day of returning to study to be able to take the intermediate quiz, control work, defend the project, laboratory work, SRO missed due to class absence. In their request, the student must indicate the name of the discipline, the specific date and time of the missed class, the type of missed work, and the full name of the PPS. The dean's office, after verifying the certificate at the KBTU Medical Center, sends a service request to the dean's office of the school, in whose load the discipline is reflected, or directly to the teacher if the teacher belongs to the same school.",
+              "If the student misses more than 30% of the academic activities of the discipline, an \"F\" grade is given for the discipline.",
+              "Teachers are obliged to signal to the dean's offices of the schools to which they are attached about cases of systematic non-attendance of classes by students. Deans and deputy deans should monitor attendance and inform students of their schools or deans of relevant schools that if the total absence from academic activities exceeds 20%, it is recommended to take an academic leave, if there are corresponding objective reasons. Otherwise, the student is at risk and, if the absences exceed 30%, they will be automatically marked as \"not allowed\" for the final exam in the AIS, and an \"F\" grade will be automatically given for the discipline.",
+              "Any documents confirming the objectivity and seriousness of the reasons for missing academic activities are not taken into account by either the teachers or the dean's office of the school, as attendance is a major part of academic discipline at KBTU, absences are not canceled in the system.",
+              "Table 1. Acceptable number of absences by discipline considering the total number of contact hours",
+              "The volume of the discipline in the number of contact hours per semester / Acceptable number of absences",
+              "60 / up to 18 inclusive",
+              "45 / up to 13 inclusive",
+              "30 / up to 9 inclusive",
+              "15 / up to 4 inclusive",
+              "Students are transferred to the next year of study by the order of the Rector (Chairman of the Board) at the end of the academic year (including the summer semester).",
+              "A student with academic debt (\"F\" grade) must retake the corresponding disciplines on a paid basis, except for cadets of the KMA. KMA cadets retake the exam for the corresponding disciplines, according to the documents regulating the activities of the KMA - \"QMS KMA\".",
+              "Students studying at foreign universities based on international student exchange educational programs or KBTU partner programs, the credits they earned during their studies abroad, for disciplines corresponding to the curriculum of the educational program, are counted following the legislation and internal normative document - \"Procedure for the transfer of disciplines\"."
+            ]
+          },
+          {
+            "Title": "5. PROCEDURE FOR CHOOSING THE EDUCATIONAL TRAJECTORY OF STUDENTS",
+            "Content": [
+              "The student independently builds their educational trajectory in the form of an IUP, compiled within the framework of the working curriculum of the educational program. To master the corresponding level of education, the student must complete their individual study plan, gaining the required number of credits according to the working curriculum of the educational program.",
+              "The student is responsible for compiling the IUP and fully mastering the course of study according to the requirements of the working curriculum of the educational program.",
+              "The IUP is formed for each academic period with the assistance of an advisor. The main task of the advisor is to assist the student in choosing a learning trajectory. In the absence of an advisor, the dean of the school consults students on the formation of their individual study plan. The list of advisors is approved by the order of the dean of the school annually.",
+              "When compiling their IUP, the student must:",
+              "- familiarize themselves with these Rules;",
+              "- familiarize themselves with the working curriculum and Minor programs;",
+              "- comply with the established deadlines for registration for academic disciplines.",
+              "The maximum number of credits included in the student's IUP is 35 academic credits per semester, except for the summer semester, where the maximum number is limited to three disciplines.",
+              "The choice of elective disciplines is made considering the student's professional orientation, while the student's IUP may include disciplines declared in other specialties/EPs. The only requirement for choosing a discipline is the presence of prerequisites for the chosen discipline.",
+              "Students with an international English language exam certificate IELTS 6.5 and above may be exempted from studying the mandatory general education discipline English language in the fall semester of the 1st year of study.",
+              "The dean's offices carry out the transfer of grades for the discipline \"English language\" according to the system adopted at KBTU for transferring IELTS scores to grades on the KBTU scale.",
+              "The formed IUP is signed by the electronic signature in the AIS KBTU by the student and reviewed by the advisor. The advisor, in the absence of comments, approves the IUP with an electronic signature.",
+              "The deadline for signing the IUP is no later than the 2nd week of the semester. OR monitors the timeliness of the IUP signing process.",
+              "The student has the right to vary the IUP in composition during the 2nd stage of registration and during the \"Add/Drop\" period.",
+              "Schools must provide the OR with descriptions of the disciplines before the registration period begins, and from the first days of classes in each academic period - place a full educational and methodological complex of disciplines (UMKD) in the AIS University.",
+              "Under credit technology of education, great importance is attached to the student's independent work: SRS, SRSP. The student must possess the skills of independently completing individual assignments, coursework, and other research projects, case analysis, etc.",
+              "All types of independent work are described in the syllabus of disciplines with specific assignments and evaluation criteria.",
+              "The methodological guidelines for all types of academic assignments describe the assignments and the teacher's requirements for their completion with an indication of the evaluation criteria.",
+              "Completed academic assignments are submitted by students in written form on paper and/or electronic media, if another form of submission is not provided for in the syllabus of the discipline.",
+              "SRSP is conducted within the framework of office hours. The office hours schedule is compiled by the school based on data provided by teachers and the class schedule of students, in agreement with the students and the Academic Affairs Sector of the OR (to determine/allocate classrooms), approved by the dean of the respective school, posted on the school's information boards, indicated in the teacher's syllabi and the schedule.",
+              "The number of office hours is determined by the order for the distribution of the teaching load and the order for hourly work, approved for each academic year.",
+              "Due to the requirements of the International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers (STCW) at the KMA, SRS represents both extracurricular independent preparation of cadets for classes and classroom independent work to complete assigned tasks, and therefore office hours are not provided for at the KMA."
+            ]
+          },
+          {
+            "Title": "6. REGISTRATION FOR ACADEMIC DISCIPLINES",
+            "Content": [
+              "The registration of students for the semester disciplines (Enrollment) is organized by the OR with the methodological and advisory assistance of advisors and schools. The registration deadlines are indicated in the Academic Calendar.",
+              "Students are required to strictly follow the established deadlines in the Academic Calendar to register for disciplines online on the KBTU website www.kbtu.kz.",
+              "To register in the AIS, students need to familiarize themselves with the instructions posted on the KBTU website.",
+              "Before registration, the student needs to contact the advisors to develop their individual trajectory. The advisor consults and explains to students the choice of disciplines according to the educational program.",
+              "The introduction of first-year students/cadets to the KBTU learning system takes place during the orientation period, the timing of which is indicated in the Academic Calendar. At this stage, there is a general introduction to credit technology education, meetings with deans of schools, advisors, and representatives of the administration. Each KBTU student/cadet is assigned an identification number under which they can access the AIS KBTU.",
+              "Registration is carried out in two stages:",
+              "Stage 1 - Formation of the individual plan of the student/cadet - registration for disciplines, where the student/cadet will have the choice of discipline, language of instruction, and will see the proposed teacher in the description of disciplines.",
+              "Stage 2 - Formation of the schedule of students/cadets - students/cadets can form their schedule, where they will have the opportunity to choose the teacher, time, and stream, as well as change the discipline within the schedule.",
+              "For newly admitted students to KBTU, the basis for access to the AIS KBTU is:",
+              "- the order of admission to the number of KBTU students;",
+              "- payment for the semester (if the training is on a paid basis).",
+              "In the AIS KBTU, first-year students/cadets receive a ready-made schedule for the first semester. For the second and subsequent semesters, registration for disciplines is carried out in the prescribed manner.",
+              "Other students register for the disciplines of the next semester and repeat the disciplines (retake) at the end of each semester during the registration period, which is indicated in the Academic Calendar.",
+              "The basis for access to registration is the completion of all prerequisites required for studying a particular discipline.",
+              "At the beginning of the next semester, the student forms their schedule of academic activities in the AIS KBTU for the disciplines.",
+              "During the \"Add/Drop\" period, students are required to form the final version of the schedule. Attendance at classes during the \"Add/Drop\" period is strictly mandatory.",
+              "In the first week of classes (Add/Drop), the student can change the disciplines, time, and teacher. During the \"Add/Drop\" period, the student can make changes to the schedule only through the OR. The student must fill out an application for changing the discipline or class time (the application form is posted in the AIS) and submit it to the OR. The application will be considered and appropriate changes will be made to the student's schedule.",
+              "Applications are considered only during the \"Add/Drop\" period.",
+              "The student can register for the maximum allowable number of credits established at KBTU - 35 academic credits (including retakes) per semester, except for the summer semester, where the maximum number is limited to three disciplines.",
+              "For KMA cadets, the average number of credits per semester is 41-42 academic credits ECTS.",
+              "The retake of disciplines by students with academic debts is carried out only on a paid basis for all specialties/EPs and forms of payment for training (state educational grant, KBTU grant, grants from various organizations, payment for training by an individual). Registration for the retake of disciplines is carried out no later than the \"Add/Drop\" re-registration period according to the Academic Calendar.",
+              "The retake of the discipline is not provided for in the KMA system of rules, so a KMA cadet does not have the right to continue studying under the KMA undergraduate program if they have more than two academic debts in marine disciplines and more than three in general education disciplines.",
+              "Academic streams of students/cadets are formed based on the sufficient number of students registered for the discipline. The minimum required number of registered students for disciplines is 10 people.",
+              "The class schedule is approved by the 3rd week of the semester. However, changes in the teachers' schedule can be made until the end of the second week.",
+              "Changes in the class schedule can be initiated by the teacher, with the consent of all registered students/cadets, agreement of the dean, and the head of the Office of the Registrar.",
+              "The class schedule is agreed upon with the dean of the school, the head of the OR, and approved by the Vice-Rector for Academic Affairs."
+            ]
+          },
+          {
+            "Title": "7. CURRENT AND INTERMEDIATE CONTROL OF STUDENTS",
+            "Content": [
+              "The control of students' academic achievements is carried out in the form of various types of control assignments for the studied discipline.",
+              "Control is divided into current, midterm, and final control.",
+              "Current control is a systematic check of students' academic achievements conducted by the teacher during current classes in accordance with the discipline syllabus.",
+              "Midterm control is conducted in the 8th week of the semester. Midterm control is mandatory. The form and content of the midterm control are determined by the teacher conducting the discipline.",
+              "Final control (final exam) is a check of the student's academic achievements conducted after completing the study of the discipline during the examination session.",
+              "The final grade for the discipline consists of current, midterm, and final controls and is entered in the student's transcript.",
+              "All types of control and corresponding assessments of knowledge are conducted by the teacher in accordance with the Academic Calendar and the discipline syllabus.",
+              "Attendance at all types of academic activities is mandatory. The teacher monitors class attendance.",
+              "No later than 7 days from the date of the academic activity, the teacher must fill out the electronic attendance journal in the AIS with the current control grade and attendance data.",
+              "The dean's office ensures the timely completion of the electronic journal by teachers, and the OR conducts the corresponding monitoring.",
+              "Current control grades are distributed by the teacher throughout the semester and reflected in the syllabus.",
+              "The results of midterm control (the number of points scored by the student at the time of midterm control, including points for the midterm) are entered in the electronic grade book no later than three days after the end of the midterm control week.",
+              "In the 15th week of the semester, according to the Academic Calendar, current control grades are entered, and the student's admission rating to the final control is formed.",
+              "The period of final control is called the examination session. KBTU has winter and spring examination sessions. Each session lasts at least 2 weeks.",
+              "The periodicity and duration of the examination sessions are determined in accordance with the Academic Calendar, approved by the Academic Council of the University.",
+              "In the summer semester, final exams are conducted at the end of the semester.",
+              "The organization of the examination session is managed by the OR. The OR schedules the exams, which are approved by the Vice-Rector for Academic Affairs no later than 2 weeks before the start of the examination session.",
+              "The OR appoints proctors without the approval of the deans of the schools. Proctors for the exam can only be teachers from departments that did not conduct classes on the examined discipline, representatives of the management staff of educational and methodological units of the University, and employees of the Security Service. Depending on the number of exam streams, the OR appoints additional proctors.",
+              "Exams are conducted in one of the forms (oral, written, testing) or complex, at the discretion of the teacher and with the approval of the school council. All forms of complex final exams are conducted only during the session, without dividing into different stages at different times. The form of the exam is reflected in the syllabus of the discipline, which is approved by the dean of the school in advance before the start of the semester.",
+              "Tasks may consist of various types of questions: true/false, multiple choice, problem-solving, project completion, essay writing, etc.",
+              "The total duration of the complex exam (testing, written and oral parts of the exam) is determined by the examiner, but the duration of the exam should not exceed three hours.",
+              "The state exam on the discipline History of Kazakhstan is conducted in accordance with the Regulation on the organization and conduct of the state exam on the History of Kazakhstan at JSC \"KBTU\".",
+              "Final control on the discipline Physical Culture is carried out during academic activities in the last week of the semester. For successful completion of the discipline Physical Culture, the student receives a \"Pass\" grade, which is not included in the GPA calculation.",
+              "The final control of practice is carried out by the school commission, accepting the defense of practice reports, considering the reviews of the practice supervisor from the practice base and the practice supervisor from KBTU. All types of practice are aimed at achieving the learning outcomes of the educational program the student is studying.",
+              "The deadline for submitting reports and entering the final grade in the electronic grade book in the AIS:",
+              "- for academic practice - within one week after the completion of practice;",
+              "- for industrial practice - within one month from the beginning of the next academic semester.",
+              "The organization and conduct of the examination session of students are entrusted to the OR. The paper copy of the examination grade book is stored in the OR.",
+              "Students are admitted to the examination session if they:",
+              "- have no debt for tuition;",
+              "- have attended at least 70% of the academic activities of the discipline (see Table 1);",
+              "- have scored 30 or more points for the semester in current and midterm controls;",
+              "- are not on academic leave.",
+              "The Department of Accounting, Reporting, and Finance, in accordance with the Algorithm of actions for working with accounts receivable approved for the current academic period, provides the OR, SRAO, and dean's offices with lists of students with financial debt for tuition. Based on the provided lists, the SRAO closes access to the AIS of the University for students with financial debt for tuition. If the financial debt is not paid off within the established period by the University, KBTU takes measures to terminate the contract and expel the student. The resulting financial debt will be collected in accordance with the legislation of the Republic of Kazakhstan.",
+              "The student is obliged to appear for the exam on time, without delay, according to the approved schedule, having an identity card and a student/cadet ID card. The student must strictly follow the Rules of Conduct at the exam, approved by the University.",
+              "During the final exam, students may use the course program and reference literature and dictionaries with the teacher's permission.",
+              "Students of the School of Economics, if they fail the international APT exams (according to the rules of the School of Economics, failure is considered to be a \"Fail\" grade in two out of the following three disciplines: AP Statistics, AP Economics, AP Calculus), can transfer to other KBTU schools, withdraw on their own, or remain in the School of Economics to retake the AP disciplines for which a \"Fail\" grade was received during the APT exams and, after completing the repeated course of study, retake the APT exams.",
+              "If students remain in the School of Economics, they can also study other disciplines not related to the University of London programs to reduce lag, and pay for all disciplines on a credit basis.",
+              "If the disciplines of the School of Economics KBTU and the University of London coincide, the student is given the grade of the University of London according to the KBTU grade scale, regardless of the grade previously received by the student for this discipline according to the KBTU curriculum.",
+              "If the disciplines of the School of Economics KBTU and the University of London coincide, if the grade received by the student for this discipline according to the KBTU curriculum is lower than the grade based on the results of the University of London exams, the student has the opportunity to receive a higher grade according to the University of London grade on the KBTU grade scale in the spring semester.",
+              "A student who received an unsatisfactory grade \"F\" in the University of London (external knowledge assessment UOL) is given an \"FX\" grade in the transcript of the School of Economics (according to the KBTU curriculum), which allows the student to retake the final exam on a paid basis. When the disciplines of the School of Economics KBTU and the University of London coincide, a student who received an unsatisfactory grade \"F\" in the University of London (external knowledge assessment UOL) must complete the program of the academic discipline, re-registering for it in the AIS KBTU on a paid basis in the next academic period."
+            ]
+          },
+          {
+            "Title": "8. STUDENT KNOWLEDGE ASSESSMENT. GPA CALCULATION METHOD",
+            "Content": [
+              "Student knowledge assessment is carried out on a point-rating letter system with the corresponding conversion to the traditional grading system according to the grading scale below adopted at KBTU.",
+              "Grades received by students based on the results of exams are entered by the teacher in the examination grade book and in the AIS database. The signed examination grade book (on paper) is submitted by the teacher to the OR and the grades entered in the grade book cannot be changed. In the calculation of academic indicators of students, the paper examination grade book is taken as the basis.",
+              "Students are categorically prohibited from unauthorized (unsanctioned) access to the electronic database and other University documents (journals, grade books, etc.) with the aim of increasing grades (points), obtaining correct answers to test tasks, and other inappropriate and/or conflicting with established order goals. In case of committing a disciplinary offense of this kind, the student is expelled from the University.",
+              "The final grade for the discipline includes grades of current performance, midterm control (Mid term), and final control. The current performance grade (admission rating) is 60% of the final grade for the discipline, and the exam grade is 40% of the final grade for the discipline. Thus, the final grade for each discipline is determined as the sum of the points scored by the student based on the results of current control, including Mid term (admission rating maximum - 60 points) and the exam (final control maximum - 40 points), and in total is a maximum of 100 points.",
+              "These points are distributed by the teacher for different types of work. Each type of work must be evaluated according to clearly developed and presented in the syllabus evaluation criteria.",
+              "A positive final grade is the basis for supplementing the mastered credits with the established number of credits for the corresponding discipline and is entered in the student's transcript.",
+              "If a student receives an unsatisfactory grade for the final control (exam), the student is given an \"FX\" grade, which allows them to retake the final control once during the periods established by the Academic Calendar on a paid basis.",
+              "The grading scale of student knowledge adopted at KBTU",
+              "Table 2. Student knowledge grading scale adopted at KBTU",
+              "Grade by letter system / Digital equivalent of the grade / Points / Grade by traditional system",
+              "A / 4 / 95-100 / Excellent",
+              "A- / 3.67 / 90-94",
+              "B+ / 3.33 / 85-89 / Good",
+              "B / 3.0 / 80-84",
+              "B- / 2.67 / 75-79",
+              "C+ / 2.33 / 70-74",
+              "C / 2.0 / 65-69 / Satisfactory",
+              "C- / 1.67 / 60-64",
+              "D+ / 1.33 / 55-59",
+              "D / 1.0 / 50-54",
+              "FX / 0 / 30-49 / Unsatisfactory",
+              "F / 0 / 0-29; or 30-60 - when not allowed due to absences / Unsatisfactory",
+              "P (Pass) / - / 65-100 / Pass (not included in GPA calculation)",
+              "NP (No Pass) / - / 0-64 / No Pass (not included in GPA calculation)",
+              "W (Withdrawal) / - / - / Withdrawal (not included in GPA calculation)",
+              "AW (Academic Withdrawal) / 0 / 0 / Administrative withdrawal from the discipline due to academic reasons (included in GPA calculation)",
+              "AU (Audit) / - / - / Discipline audited (not included in GPA calculation)",
+              "I / - / - / Discipline not completed (not included in GPA calculation)",
+              "Attendance at exams is mandatory. If a student who has completed the discipline program in full is late or does not appear for the exam, a note \"did not appear\" is made in the attendance list.",
+              "The teacher must familiarize students with their final exam work within three working days after the grades are entered in the AIS, if requested by the students.",
+              "A student who disagrees with the result of the final control submits an appeal within 24 hours from the moment of familiarizing with their work through the AIS system.",
+              "During the examination session, an appeal commission is created by the order of the dean of the school from among teachers whose qualifications correspond to the profile of the appealed disciplines.",
+              "The results of the appeal are formalized by a protocol, and based on the decision of the appeal commission, an individual examination grade book is compiled for the student, which is attached to the main examination grade book.",
+              "The teacher enters the exam results in the information system and submits the paper examination grade books to the OR within:",
+              "- 5 calendar days for streams up to 100 students;",
+              "- 7 calendar days for streams of 100 or more after the end of the exam.",
+              "Retakes are allowed for such students only once during the period specified in the Academic Calendar before the start of the next semester.",
+              "Students who did not appear for the retake of the \"FX\" grade or scored less than 20 points on the final exam during the retake are given an \"F\" grade for the discipline.",
+              "Students who did not receive a positive admission rating for the exam in the discipline are required to register and retake the discipline on a paid basis in subsequent academic periods if the discipline is a mandatory and/or university component, or another alternative discipline if the discipline was from the elective component cycle.",
+              "In the same order, the student can retake individual disciplines on a paid basis to improve the grades received for them and the overall GPA.",
+              "In this case, the initially received grades are entered in the transcript along with the changed grade, and the GPA is calculated based on the last received grade.",
+              "Grade \"F\" - unsatisfactory",
+              "Grade \"F\" is given:",
+              "1) in case of students missing more than 30% of the total number of classroom activities for the discipline;",
+              "2) if the student scored less than 50% of the total number of required semester points (less than 30 points) during the semester;",
+              "3) if the student scored 9.4 or fewer points for the final exam;",
+              "4) for using cheat sheets during midterm control and/or exam and other violations of the rules of conduct at the exam with mandatory documentation of the established fact of violation of academic honesty norms;",
+              "5) if the student with an \"FX\" grade during the retake of the final control received an unsatisfactory grade;",
+              "6) in case of not appearing for the exam without a valid reason.",
+              "If students are found with cheat sheets, as well as in other cases of violating the rules of conduct at the exam (copying, using electronic communication devices, etc.), the student/cadet is removed from the exam (this applies to all types of control, including current control during the semester and midterm). In this case, the student is given a final \"F\" grade for the discipline regardless of the number of points scored during the semester.",
+              "In case of repeated use of cheat sheets at the exam, the student is subject to disciplinary action up to expulsion from the University.",
+              "In case of receiving an \"F\" grade for a compulsory component discipline, the student must retake the discipline (retake) on a paid basis, except for KMA cadets. KMA cadets retake the exam for the corresponding disciplines according to the documents regulating the activities of the KMA - \"QMS KMA\".",
+              "A student who received an unsatisfactory grade for an elective discipline has the right to retake it or replace it with another elective discipline. The replacement of the discipline must be agreed upon with the advisor or dean of the school.",
+              "Retaking the discipline is carried out for an additional fee, both for paid students and for students studying at the expense of state educational grants or KBTU grants, according to the rates approved for the current academic year.",
+              "Registration for retaking the discipline (retakes) is carried out in the general order through the OR.",
+              "KMA cadets do not have the right to retake the discipline due to the specific curriculum.",
+              "A cadet who did not pass the exam and has an \"F\" grade for 3 or more disciplines is expelled from the University.",
+              "Grade \"FX\" - unsatisfactory",
+              "If the student scored from 9.5 to 19.4 points for the final control, they are given one opportunity to retake the final exam without retaking the academic discipline program during the periods specified in the Academic Calendar. KMA cadets retake the exam according to the documents regulating the activities of the KMA - \"QMS KMA\".",
+              "The \"FX\" grade cannot be given for the discipline Physical Culture, History of Kazakhstan, and for the final attestation.",
+              "If the student received an \"F\" grade - unsatisfactory during the retake of the final exam, the student must retake the discipline (retake) on a paid basis.",
+              "Grade \"I\" (Incomplete) - discipline not completed",
+              "The teacher can give an \"I\" grade to a student who did not appear or was late for the exam for the following reasons:",
+              "- due to serious illness (requiring inpatient treatment for more than 5 days);",
+              "- due to childbirth;",
+              "- due to the death of close relatives (parents, children, adoptive parents, full and half brothers and sisters, grandparents, guardians of orphans);",
+              "- due to official or academic trip (about which the student informs the school dean's office no later than a week before the start of the examination session).",
+              "If a student approaches the dean's office who did not appear for the exam due to force majeure circumstances, who has an admission rating and no more than 15% absences in the discipline (see Table 3 with norms below), in exceptional cases, the dean issues an order and sends it to the OR with supporting documents for giving the \"Incomplete\" grade. If the number of absences exceeds 15%, as well as other recorded facts of violation of academic discipline, behavior ethics at the university, the dean has the right to refuse to give the \"Incomplete\" grade (except for the first 4 reasons for not appearing for the exam with supporting documents).",
+              "Table 3. Norms for the number of absences determining the academic discipline of the student",
+              "Volume of the discipline in the number of contact hours per semester / Acceptable number of absences for consideration of \"Incomplete\" grade",
+              "60 / up to 9 inclusive",
+              "45 / up to 6 inclusive",
+              "30 / up to 4 inclusive",
+              "15 / up to 2 inclusive",
+              "All listed reasons must be supported by supporting documents.",
+              "Medical certificates must be provided within 3 working days from the date of discharge and certified by the chief physician of the KBTU Medical Service.",
+              "The application is reviewed and endorsed by the teacher of the discipline and the dean of the school. If the reason for missing classes and the exam is recognized as valid, the dean issues an order and sends it to the OR, and the student is given the \"I\" grade if the above conditions are met.",
+              "Otherwise, the student is given an \"F\" grade.",
+              "The retake of the \"I\" grade and the change of the grade to a standard one (\"A\", \"B\", \"C\", \"D\", \"F\") for the discipline is carried out within the first two weeks of the next semester (fall or spring) according to the schedule established by KBTU, provided that the student meets all the requirements of the syllabus.",
+              "To change the \"I\" grade to a standard grade, the student must appear for the exam at the specified time, approved and agreed upon in the OR.",
+              "The exam is conducted by a commission created by the school in the first two weeks of the next semester (excluding the summer semester). The exam is conducted free of charge.",
+              "If the student scored less than 50% (20 points or more) for the final exam, the OR, based on the examination sheet signed by the teacher, changes the \"I\" grade to an \"F\" grade, i.e. \"unsatisfactory\".",
+              "If the teacher who gave the student the \"I\" grade is absent from the University, the dean recommends another teacher to the commission.",
+              "If the student is expelled from the University for any reason before the deadline for changing the \"I\" grade, this grade remains in the transcript unchanged.",
+              "The \"I\" grade is not credited and is not included in the GPA calculation.",
+              "Grade \"AU\" (Audit) - discipline audited",
+              "The \"AU\" grade is given to a student who wishes to audit the discipline without passing the established forms of knowledge control (current, midterm, final) and receiving a final grade. Taking such disciplines is paid according to the established KBTU cost.",
+              "A student registered for the discipline as an auditor must declare this to the OR. In the examination grade book of such a student, an \"AU\" mark is automatically entered.",
+              "The \"AU\" grade is not credited and is not included in the GPA calculation.",
+              "Auditors of disciplines can be both KBTU students and individuals not enrolled in the number of KBTU students.",
+              "Students of other universities can take individual disciplines at KBTU with a final grade if there is a concluded agreement between KBTU and the relevant educational organization.",
+              "Grade \"W\" (Withdrawal) - refusal from the discipline",
+              "The student can refuse the discipline within the first four weeks from the start of classes in the following order:",
+              "1) application to the dean of the school with justification for the decision to refuse the discipline;",
+              "2) if the issue is resolved positively, the application, necessarily endorsed by the student's advisor and signed by the dean of the school, is submitted to the OR to deregister the discipline in the AIS KBTU;",
+              "3) the original application is submitted to the Department of Accounting, Reporting, and Finance, a copy remains in the OR.",
+              "For paid students, if the issue is resolved positively, the funds are credited to future study periods (including the summer semester).",
+              "In the student's examination grade book for the discipline, the \"W\" grade is entered. This grade can be changed by the teacher only in case of re-registration and completion of the discipline by the student.",
+              "Refusal from the discipline after the 4th week of the semester is not allowed.",
+              "The \"W\" grade is not included in the GPA calculation.",
+              "Grade \"AW\" (Academic Withdrawal) - administrative withdrawal from the discipline due to academic reasons",
+              "The \"AW\" grade is given to students who have not attended classes during the semester for more than 30% of the total volume of the discipline (see Table 1) or systematically violate the principles of academic integrity (plagiarism, deception, cheating, etc.). The \"AW\" grade is included in the GPA calculation.",
+              "Grade \"NP\" (No Pass) - incomplete discipline",
+              "The \"NP\" grade is given to students who do not complete disciplines assessed on a \"Pass\" or \"No Pass\" basis. This grade is not included in the GPA calculation.",
+              "Calculation of the GPA:",
+              "GPA - Grade Point Average, is calculated based on the digital equivalent of the grades obtained for each discipline, taking into account their credits.",
+              "GPA calculation:",
+              "For the calculation of the GPA of students, the digital equivalent of the grades obtained for each discipline, multiplied by the number of credits for this discipline, is summed up and divided by the total number of credits taken by the student.",
+              "GPA = sum of (digital equivalent of the grade * number of credits) / total number of credits",
+              "Only those disciplines for which the student received a final grade of \"A\" to \"F\" are included in the calculation of the GPA. Grades \"P\", \"NP\", \"W\", \"AU\", and \"I\" are not included in the GPA calculation.",
+              "Disciplinary measures:",
+              "Disciplinary measures applied to students/cadets who violated these Rules are established by internal normative documents of the University."
+            ]
+          },
+          {
+            "Title": "9. ORGANIZATION AND CONDUCT OF FINAL ATTESTATION OF STUDENTS",
+            "Content": [
+              "The final attestation of students in the form of a comprehensive exam or defense of the graduation project (work) is carried out to determine the degree of mastering the volume of academic subjects, disciplines and/or modules provided by the state compulsory standard of the corresponding level of education.",
+              "The final attestation of students is organized and conducted based on the Standard Rules for the organization of the educational process on credit technology of education and other internal normative documents of the University.",
+              "For all levels of education at KBTU, the requirements for conducting final attestation are unified:",
+              "- a student is allowed to undergo final attestation if they have mastered all types of academic work and completed the full educational program;",
+              "- the student has no academic debts;",
+              "- all types of practice and final attestation are completed;",
+              "- the final attestation is organized in the form of a comprehensive exam, defense of the graduation project (work), state exam.",
+              "The comprehensive exam is conducted on general education disciplines, profiling disciplines, and additional educational programs of the student's choice (double major).",
+              "The final state exam is conducted in the form of a written or oral exam, covering the entire volume of the studied material, and is organized according to the approved schedule in the examination grade book.",
+              "The state attestation commission (SAC) is created to organize and conduct final attestation.",
+              "The SAC consists of the chairman, members of the commission, and the secretary of the commission. The SAC is created from among the leading specialists of enterprises, organizations, research institutes, and other institutions, as well as teachers of the University who do not conduct classes on the examined discipline.",
+              "The work of the SAC is organized based on the approved schedule.",
+              "The defense of the graduation project (work) is conducted in a public form with the invitation of specialists from relevant industries, representatives of organizations, research institutes, and other institutions.",
+              "The main document regulating the activities of the SAC is the Regulation on the SAC of KBTU.",
+              "The results of the final attestation are formalized by a protocol, and based on the decision of the SAC, an individual examination grade book is compiled for the student, which is attached to the main examination grade book.",
+              "The results of the final attestation are formalized by a protocol, and based on the decision of the SAC, an individual examination grade book is compiled for the student, which is attached to the main examination grade book."
+            ]
+          }
+        ]
+      }
+      
+    ],
+    "exam_procedure":[
+      {
+        "DocumentTitle": "Corporate Standard ISM KBTU 51-3-20",
+        "GeneralInfo": {
+          "DevelopedBy": "Educational and Methodological Center",
+          "ApprovedBy": "Decision of the Board of JSC \"Kazakhstan-British Technical University\" from 31 January 2020 No. 2"
+        },
+        "Sections": [
+          {
+            "Title": "1. PURPOSE",
+            "Content": "The present corporate standard \"Academic Policy. Rules for Conducting the Final Examination, Duties of the Proctor and Examiner\" establishes the requirements for the procedure for conducting final control in the form of a final examination for a discipline and/or module."
+          },
+          {
+            "Title": "2. SCOPE",
+            "Content": "The requirements of these Rules are mandatory for the faculties, teachers, and students of KBTU."
+          },
+          {
+            "Title": "3. TERMS, DEFINITIONS, AND ABBREVIATIONS",
+            "Content": {
+              "3.1": {
+                "KBTU": "JSC \"Kazakhstan-British Technical University\"",
+                "OR": "Office of the Registrar",
+                "Students": "students, cadets, trainees, undergraduates, and doctoral students",
+                "Office of the Registrar": "service engaged in registering students for taught disciplines, registering all their academic achievements throughout the study period, ensuring the organization of intermediate and final control of knowledge and calculating the academic rating",
+                "Retake": "re-study of a discipline in case of receiving an unsatisfactory final grade",
+                "AIS KBTU": "Automated Information System of KBTU for the educational process, implemented using internet technologies",
+                "Proctor": "observer of the examination process",
+                "Examiner": "person with the necessary technical and personal qualifications, competent to conduct the examination and/or assign grades (points)",
+                "Retake of final control (final exam)": "in case of receiving an unsatisfactory grade corresponding to the mark \"FX\", the student has the opportunity to retake the final control without re-studying the program of the academic discipline/module",
+                "Interim attestation of students": "procedure conducted to assess the quality of students' mastery of part or all of the content of one academic subject, one academic discipline and/or module, as well as professional modules within one qualification after their completion",
+                "Final control (Final Examination)": "check of the student's academic achievements conducted in the form of an exam after completing the study of the discipline during the period of interim attestation",
+                "ID": "unique identifier of an object that distinguishes it from other objects, i.e., identifies it. Examples: lexical token identifying an entity",
+                "Faculty": "Faculties, schools, and scientific and educational centers of KBTU"
+              }
+            }
+          },
+          {
+            "Title": "4. RULES FOR CONDUCTING THE EXAM",
+            "Content": [
+              "Students registered for the discipline and not having a \"W\" or \"AW\" grade, financial debts for tuition fees, and other expenses are admitted to the exam and included in the attendance sheet.",
+              "The student must present their ID card or identity document and sign the attendance sheet when entering the examination room.",
+              "After the start of the exam, the student is prohibited from leaving the room, except in emergencies with the examiner's consent.",
+              "All books, notes, notebooks, bags, cases, outerwear, and electronic devices capable of storing data must be placed in the designated area. All mobile phones and other electronic devices must be turned off and handed over to the proctor.",
+              "Students are strictly prohibited from wearing outerwear, including scarves, hats, gloves, and other extraneous items, regardless of the season.",
+              "Students may only have a pen, pencil, eraser, non-data storage calculator, and, if permitted by the examiner, necessary reference books and dictionaries during the exam.",
+              "Passing and exchanging pens, pencils, erasers, and calculators is not allowed.",
+              "Talking between students, attempting to look at another student's monitor or exam sheet, cheating, etc., are prohibited during the exam.",
+              "From the start and during the exam, it is prohibited to ask the examiner and other students any questions. The examiner may only explain the rules of conduct, the form of filling out exam papers, and other organizational issues at the beginning of the exam. If additional questions arise from the start of the exam, the student may only address the proctor.",
+              "During computer-based testing, the student must log into the computer and exam file only under their login. Upon completion of their test, the student must leave the room.",
+              "Latecomers are admitted by the proctor with the examiner's permission, and the exam time is not extended.",
+              "At the end of the written exam time, each student must submit their exam sheet without discussing the possibility of continuing to work on the exam questions.",
+              "Answers must be filled out only with a pen; otherwise, the exam is not credited.",
+              "If an impersonator (person who attended or took the exam on behalf of the student) is found, the proctor draws up a violation report signed by the examiner, a representative of the dean's office, and the impersonator.",
+              "If the student and/or impersonator refuse to sign the violation report, a refusal report is drawn up in the presence of at least two witnesses (they may be a representative of the dean's office, examiner, and other students). The original reports are sent to the dean's office for submission to the Disciplinary Committee to decide on applying disciplinary measures to the student and the impersonator.",
+              "Based on the violation report, the exam results are annulled."
+            ]
+          },
+          {
+            "Title": "5. DUTIES OF THE STUDENT DURING THE FINAL EXAM",
+            "Content": [
+              "Arrive at the exam no later than 15 minutes before the start of the exam and have an ID card/identity document and a pen.",
+              "Leave personal belongings (bag, mobile phone, book, notebook, etc.) in the designated area in the examination room.",
+              "Take the seat assigned by the proctor.",
+              "Receive the ticket and answer sheets from the proctor.",
+              "Sign the admission sheet.",
+              "Carefully listen to the proctor's instructions and follow them.",
+              "Begin answering the exam ticket questions after the announcement of the start of the written exam.",
+              "Demonstrate thoroughness and depth of judgment, solid scientific preparation, and the ability to logically and argumentatively express thoughts. Write answers to questions neatly and legibly.",
+              "Maintain silence in the room during the exam, and treat proctors and other students respectfully.",
+              "Submit exam materials at the end of the written exam time.",
+              "If finishing the exam ticket questions earlier than the allotted time (but no less than 30 minutes), inform the proctor, present the ID/identity document, and leave the room.",
+              "Students are prohibited from bringing and using any items (mobile phones, listening devices, and other electronic devices) in the examination room, except for the ID/identity document and pen.",
+              "Falsifying data on the answer sheet is prohibited.",
+              "Passing exam materials to other students is prohibited.",
+              "Using assistance from others to complete the written assignment is prohibited.",
+              "Using cheat sheets or other educational aids, except for reference books and dictionaries permitted by the examiner, is prohibited.",
+              "Violating the time allotted for the written exam (writing on the answer sheet before the start and after the end of the exam) is prohibited.",
+              "Removing exam tickets or other materials from the room is prohibited.",
+              "Delaying the submission of the exam ticket and answer sheets after the exam is prohibited."
+            ]
+          },
+          {
+            "Title": "6. DUTIES OF THE EXAMINER DURING THE FINAL EXAM",
+            "Content": [
+              "Before the start of the exam session, during the Mid-term and 15th week of the semester (the dates are indicated in the Academic Calendar), fill out the electronic attendance sheet, entering the total points scored by the student during the semester.",
+              "Prepare exam questions for the disciplines 45 calendar days before the start of the exam session. The final exam is conducted in various forms according to the discipline syllabus: testing, written, oral, or combined. All forms of the final exam must include problem questions.",
+              "Submit exam questions for review by the specially created methodological group at the faculty. After receiving the review (signed by the dean), the exam questions are approved at the faculty meeting no later than 30 calendar days before the start of the exam session, with the protocol number and date of approval indicated, along with the dean's signature and faculty seal.",
+              "For computer-based testing, convert test questions into a test shell two weeks before the start of the exam session, test them, and transfer them to the IT Department for uploading to the university server.",
+              "Print the list of students registered for the discipline and admitted to the exam from their personal page in the AIS, indicating each student's ID (attendance sheet). Manual filling (adding) of student names is not allowed.",
+              "Ensure the timely start of the exam according to the schedule. Upon students entering the room, the examiner, together with the proctor, must require them to present their ID card or identity document.",
+              "Assist the proctor in seating the students according to the seating chart formed in the AIS, indicated in the attendance sheet.",
+              "Monitor students' self-entry of their name and password when logging into the AIS during computer-based testing.",
+              "Strictly ensure that students do not cheat during the exam. Cheating results in the student being removed from the exam and receiving an \"F\" grade for the entire discipline.",
+              "Refrain from discussions with students. The examiner may only explain the rules of conduct, the form of filling out exam papers, and other organizational issues at the beginning of the exam.",
+              "Be present in the room from the start to the end of the exam.",
+              "Receive encrypted works from the proctor.",
+              "Enter exam results into the AIS within 7 calendar days after the exam.",
+              "After entering the exam results in the AIS, print the paper version of the exam attendance sheet the same day, sign it, and submit it to the Student Registration Sector of the OR."
+            ]
+          },
+          {
+            "Title": "7. DUTIES OF THE PROCTOR DURING THE FINAL EXAM",
+            "Content": [
+              "Ensure the timely start of the exam according to the schedule. The proctor must open access to the room for seating students according to the seating chart formed in the AIS 15 minutes before the start of the exam (if this point is violated, the OR sends a report to the KBTU management).",
+              "Ensure students' familiarity and compliance with these Rules.",
+              "Ensure all students sign the attendance sheet when presenting their ID card or identity document.",
+              "Mark students absent from the exam in the attendance sheet, indicating the reason (absence, removal from the exam for using a cheat sheet).",
+              "Admit latecomers to the exam only with the examiner's permission.",
+              "Ensure students do not wear outerwear, including hoods, scarves, hats, gloves, and other extraneous items, regardless of the season.",
+              "Ensure only a pen/pencil, eraser, calculator for calculations, and paper for writing answers with the faculty stamp, and, if provided, reference literature (dictionary or reference book) are on the student's desk/computer desk.",
+              "Ensure mobile phones, cameras, and other electronic recording and playback devices are handed over, and bags, briefcases, etc., are left on a separate table inside the room at the entrance.",
+              "Distribute exam materials, assignments, and answer sheets with the faculty stamp.",
+              "If additional undisclosed electronic gadgets and cheat sheets are found (including those peeking out of a pocket), remove them from the room, drawing up a corresponding act (if this point is violated, the OR sends a report to the KBTU management). The exam work and act of the caught student are submitted to the corresponding dean's office.",
+              "Announce the remaining time to students each hour during written exams, and closer to the end of the exam, 30 minutes, 15 minutes, and 5 minutes before the end.",
+              "If students have any questions for the examiner during the exam, resolve the issue without involving the examiner and without discussions.",
+              "Ensure the timely end of the exam strictly according to the schedule and do not allow delays in submitting exam works after the end of the exam (for written exams).",
+              "During computer-based testing, strictly ensure that students do not open electronic documents other than the computer testing program.",
+              "Strictly ensure that students do not talk during the exam (testing, written exam), do not cheat, do not get up, and do not change seats without permission.",
+              "After the test, mark students who did not appear, were late, or were removed for violating these Rules in the attendance sheet.",
+              "Submit the attendance sheet to the OR after the exam.",
+              "Submit students' written works to the corresponding faculty dean's office for encryption after the exam.",
+              "The proctor is prohibited from engaging in extraneous activities, including prolonged use of mobile phones."
+            ]
+          },
+          {
+            "Title": "8. RESPONSIBILITY",
+            "Content": [
+              "Students are responsible for complying with all the requirements, restrictions, and prohibitions provided by these Rules.",
+              "If the requirements (restrictions and prohibitions) of these Rules are violated, the student is removed from the exam. The final exam in the discipline and/or module is graded \"0\" points and \"F\" regardless of the points scored during the semester. In case of repeated violation of the exam conduct Rules, the student is subject to disciplinary action.",
+              "The examiner is responsible for:",
+              "- timely development of knowledge assessment tools (control questions, tickets) for written exams;",
+              "- the quality of exam tickets: content, clarity of presentation, precise and concise wording;",
+              "- the number of exam tickets sufficient for a single written exam in the academic group;",
+              "- confidentiality of exam ticket content (question sets);",
+              "- timely checking of written answers to exam questions and entering grades in the exam attendance sheet on the day of the exam;",
+              "- objectivity in assessing students' knowledge;",
+              "- accuracy of the final control results entered in the AIS."
+            ]
+          },
+          {
+            "Title": "9. REFERENCES TO DOCUMENTS",
+            "Content": [
+              "These Rules are developed in accordance with the following regulatory legal acts:",
+              "Law of the Republic of Kazakhstan dated 27 July 2007 \"On Education\";",
+              "Rules for organizing the educational process on credit technology, approved by the order of the Minister of Education and Science of the Republic of Kazakhstan dated 20 April 2011 No. 152;",
+              "State Compulsory Standard of Higher Education (Appendix 7 to the order of the Minister of Education and Science of the Republic of Kazakhstan dated 31 October 2018 No. 604);",
+              "State Compulsory Standard of Postgraduate Education (Appendix 8 to the order of the Minister of Education and Science of the Republic of Kazakhstan dated 31 October 2018 No. 604)."
+            ]
+          }
+        ]
+      }
+      
+    ],
+    "special_program":[
+      {
+        "DocumentTitle": "Corporate Standard ISM KBTU 51-3-21",
+        "GeneralInfo": {
+          "DevelopedBy": "Educational and Methodological Center",
+          "ApprovedBy": [
+            "Decision of the Academic Council of JSC \"Kazakhstan-British Technical University\" from 26 August 2021 No. 1",
+            "Decision of the Board of JSC \"Kazakhstan-British Technical University\" from 1 September 2021 No. 20"
+          ]
+        },
+        "Sections": [
+          {
+            "Title": "1. PURPOSE",
+            "Content": "The present Corporate Standard of JSC \"Kazakhstan-British Technical University\" \"Procedure for Training under the Special Program\" (hereinafter - the Procedure) defines the procedure for admission, training conditions for undergraduate students and researchers under the master's and doctoral programs."
+          },
+          {
+            "Title": "2. SCOPE",
+            "Content": "The requirements of this Procedure apply to the dean's offices of all faculties/schools/scientific and educational centers/academies of JSC \"KBTU\" and other structural units, as well as officials involved in the educational process, including the Office of the Registrar, Educational and Methodological Center, Department of Continuing Education, Department of Budget Planning, Economic Analysis and Strategy, Department of Accounting, Reporting and Finance, and the Vice-Rector for Academic Affairs."
+          },
+          {
+            "Title": "3. TERMS, DEFINITIONS, AND ABBREVIATIONS",
+            "Content": {
+              "3.1": {
+                "IUP": "Individual Study Plan",
+                "KBTU, University": "JSC \"Kazakhstan-British Technical University\"",
+                "MNVO RK": "Ministry of Science and Higher Education of the Republic of Kazakhstan",
+                "EP": "Educational Program",
+                "OR": "Office of the Registrar",
+                "DDO": "Department of Continuing Education",
+                "KT": "Comprehensive Testing",
+                "ENT": "Unified National Testing",
+                "Academic Calendar": "calendar of educational and control events, professional practices during the academic year with indication of rest days (vacations and holidays)",
+                "Term": "period of theoretical training established independently by the educational organization in one of three forms: semester, trimester, quarter. At KBTU, the academic period is established as a semester lasting 15 weeks",
+                "Учебный план": "document regulating the list, sequence, volume (workload) of academic subjects, academic disciplines and/or modules, professional practice, and other types of educational activities for students of the corresponding level of education and form of control",
+                "Individual Study Plan (IUP)": "study plan formed for each academic year by the student independently with the help of an advisor based on the educational program (for organizations of technical and vocational, post-secondary education based on the standard and working curriculum) and the catalog of elective disciplines and/or modules",
+                "Enrollment": "procedure for registering students for academic disciplines",
+                "Credit Education": "education based on the choice and independent planning by the student of the sequence of studying disciplines and/or modules with the accumulation of academic credits",
+                "Prerequisite": "disciplines and/or modules and other types of educational work containing the knowledge, skills, abilities, and competencies necessary for mastering the studied discipline and/or module",
+                "Postrequisite": "disciplines and/or modules and other types of educational work for the study of which the knowledge, skills, abilities, and competencies acquired upon completion of the studied discipline and/or module are required",
+                "AIS KBTU": "Automated Information System of KBTU for the educational process, implemented using internet technologies",
+                "Curriculum": "academic document developed by the university independently based on the educational program and individual study plans of students. Contains a complete list of academic disciplines of the compulsory component, university component, and elective component with an indication of the number of credits, sequence of study, types of educational activities, and forms of control",
+                "Рабочий Учебный План (РУП)": "academic document developed by the university independently based on the educational program and individual study plans of students. Contains a complete list of academic disciplines of the compulsory component, university component, and elective component with an indication of the number of credits, sequence of study, types of educational activities, and forms of control",
+                "Academic Discipline": "system of knowledge, skills, and abilities selected from a certain field of science, technology, art, or production activity for study in an educational institution",
+                "Distance Educational Technologies (DET)": "technologies carried out using information and communication technologies and telecommunications means in indirect (at a distance) or not completely indirect interaction between the student and the teacher",
+                "Student": "a person who participated in the Unified National Testing in the current year, is a citizen of the Republic of Kazakhstan/foreign citizen, has general secondary and/or initial professional and/or secondary professional education",
+                "Researcher": "a person who did not participate in the Comprehensive Testing in the current year, is a citizen of the Republic of Kazakhstan, has higher and/or postgraduate education",
+                "Advisor": "teacher who consults the student on the choice of an individual learning trajectory",
+                "Special Program": "special program for preparing Students/Researchers for taking/re-taking the Unified National Testing/Comprehensive Testing"
+              }
+            }
+          },
+          {
+            "Title": "4. GENERAL PROVISIONS",
+            "Content": [
+              "The main task of training under the Special Program is the targeted preparation of the Student/Researcher for successful passing of the Unified National Testing/Comprehensive Testing while simultaneously mastering disciplines that are not postrequisites of the chosen Educational Program.",
+              "Training under the Special Program is carried out on a paid basis. The cost of training under the Special Program is determined by the normative documents of KBTU, approved in the established manner.",
+              "Training under the Special Program may be recommended for individuals wishing to subsequently enroll in undergraduate, master's, and doctoral programs in the following cases:",
+              "- if they do not have a certificate issued based on the results of the Unified National Testing or Comprehensive Testing;",
+              "- if the fourth test subject in the Unified National Testing certificate or the profile disciplines of the Comprehensive Testing do not correspond to the subject/disciplines required for admission to the chosen educational program of KBTU.",
+              "Participants of the Special Program are the Student/Researcher of the DDO, faculties/schools/scientific and educational centers of KBTU, and those admitted to training under the Special Program."
+            ]
+          },
+          {
+            "Title": "5. PROCEDURE FOR ADMISSION TO TRAINING UNDER THE SPECIAL PROGRAM",
+            "Content": [
+              "To apply for training under the Special Program at KBTU, the applicant submits the following documents to the Admissions Committee of KBTU:",
+              "- application in the prescribed form;",
+              "- document of general secondary, initial professional, secondary professional, higher, or postgraduate education;",
+              "- medical certificate (form 086-U);",
+              "- photographs (3x4 - 6 pcs);",
+              "- copy of identity card;",
+              "- resume (or motivation letter);",
+              "- recommendation letters (preferable).",
+              "The submitted documents must comply with the requirements established by the Standard Rules of Admission to KBTU.",
+              "After submitting the complete set of documents, a contract for the provision of paid educational services under the Special Program is concluded with the Student/Researcher, and the corresponding order of the Rector (Chairman of the Board) of KBTU on enrolling the Student/Researcher in training under the Special Program with an indication of the chosen Educational Program is issued.",
+              "For Students entering the undergraduate programs, the main condition for further training is the successful re-taking of the Unified National Testing/Comprehensive Testing. The passing score for enrollment as a student is determined by the Admission Rules.",
+              "Based on the concluded contract, the Student/Researcher pays the contract amount to the current account of KBTU."
+            ]
+          },
+          {
+            "Title": "6. ORGANIZATION OF THE TRAINING PROCESS UNDER THE SPECIAL PROGRAM",
+            "Content": [
+              "Training of the Student under the Special Program is carried out using the credit education technology.",
+              "The duration of training under the Special Program depends on the level of previous education and may range from one semester to two academic periods. Students planning to re-take the Unified National Testing study as a Student for no more than one year.",
+              "The Student/Researcher, under the guidance of the deputy dean of the supervised faculty and the appointed Advisor, forms an Individual Study Plan based on the working curriculum of the chosen Educational Program. The volume of the Student's/Researcher's academic load in one academic semester may be up to 35 academic credits. Enrollment of Students/Researchers in disciplines is carried out by the Office of the Registrar.",
+              "Familiarization of the Student/Researcher with the learning system takes place during the orientation week conducted by the supervised faculties. At this stage, there is a general familiarization with the credit learning system, meetings with administration representatives, faculty deans, advisors. Each Student/Researcher is assigned an identification number.",
+              "The issues of organizing the educational process, assessing knowledge in the disciplines studied by the Student/Researcher according to their Individual Study Plan, and other issues related to training under the Special Program are carried out by the supervised faculties in conjunction with the DDO and regulated by the Academic Policy of KBTU, other internal documents of the University, the conditions of the concluded contract for training under the Special Program, and this Procedure for Training under the Special Program of JSC \"KBTU\".",
+              "The Student/Researcher, on par with KBTU students, has the right to use the scientific library, electronic resource center, computer classes, have free access to the AIS KBTU, and may be provided with accommodation in the KBTU House of Undergraduates and Students.",
+              "Upon completion of training under the Special Program and at the request of the Student/Researcher, the DDO provides a transcript containing information on the disciplines studied according to the Individual Study Plan during training under the Special Program, the number of academic credits earned, and the grades (scores) received.",
+              "During the period of training under the Special Program, the Student/Researcher cannot be transferred to another university.",
+              "In cases where the Student/Researcher has one of the valid international certificates in accordance with the Common European Framework of Reference for Languages (CEFR) and a result corresponding to the Admission Rules for training in the educational programs of KBTU, the Researcher may be exempted from studying the mandatory English language disciplines with credit transfer.",
+              "In cases where the Student/Researcher has learning outcomes from previous education corresponding to the chosen program (undergraduate/undergraduate, master's/master's), with the agreement of the dean of the supervised faculty and the head of the Office of the Registrar based on the submitted documents (transcript, diploma), the Student is credited with the mastered credits according to the Educational Program for the mastered disciplines.",
+              "Upon credit transfer, the cost of training under the Special Program does not change."
+            ]
+          },
+          {
+            "Title": "7. PROCEDURE FOR ENROLLMENT AS A STUDENT OF KBTU",
+            "Content": [
+              "Upon completion of training under the Special Program, the Student/Researcher, upon meeting the admission requirements, can transfer to the status of a KBTU student, with the mandatory successful re-taking of the Unified National Testing/Comprehensive Testing.",
+              "The requirements for the submitted documents, deadlines, and procedure for passing the Unified National Testing/Comprehensive Testing are determined in accordance with the Admission Rules to KBTU.",
+              "The fourth subject/profile disciplines of testing must correspond to the chosen group of Educational Programs and are determined in accordance with the Admission Rules of JSC \"KBTU\" for the corresponding year of enrollment as a KBTU student.",
+              "If the number of points scored by the Student/Researcher based on the results of the Unified National Testing/Comprehensive Testing and entrance exams meets the passing score established by the Admission Rules to KBTU for the corresponding year, the Student/Researcher is enrolled as a student/master's student.",
+              "To be enrolled as a student of KBTU, the Student/Researcher submits to the Admissions Committee a list of documents established by the Admission Rules to KBTU for the corresponding year.",
+              "Disciplines mastered by the Student/Researcher during training and credited by KBTU under the Special Program in accordance with their Individual Study Plan, for which the Student/Researcher received positive grades, are credited upon their enrollment as a KBTU student."
+            ]
+          },
+          {
+            "Title": "8. RISKS OF THE PROCEDURE",
+            "Content": [
+              {
+                "Risk": "The number of points scored in the Unified National Testing/Comprehensive Testing and the results of entrance exams do not meet the passing score",
+                "Preventive Actions": "Enhancing preparation for the disciplines of the Unified National Testing/Comprehensive Testing and entrance exams",
+                "Corrective Actions": "Analysis and elimination of the cause of the risk",
+                "Risk Owner": "Faculties, DDO",
+                "Consequences": "Expulsion"
+              }
+            ]
+          },
+          {
+            "Title": "9. RECORDS",
+            "Content": [
+              {
+                "Record": "Transcript containing information on the disciplines studied by the student according to the Individual Study Plan during training under the Special Program",
+                "Storage Location": "AIS KBTU",
+                "Responsible": "Office of the Registrar, Faculty"
+              }
+            ]
+          },
+          {
+            "Title": "10. RESPONSIBILITY",
+            "Content": [
+              "The responsibility for preparing Students/Researchers under the Special Program lies with the deans of faculties/schools/scientific and educational centers in their respective areas.",
+              "The responsibility for timely preparation and implementation of the Individual Study Plan lies with the Student/Researcher and the Advisor.",
+              "The responsibility for organizing training in the disciplines of the Unified National Testing/Comprehensive Testing lies with the DDO in conjunction with the faculties/schools/scientific and educational centers in their respective areas.",
+              "The Student is responsible for timely registration and taking the Unified National Testing/Comprehensive Testing."
+            ]
+          },
+          {
+            "Title": "11. REFERENCES TO DOCUMENTS",
+            "Content": [
+              "This Procedure is developed in accordance with the following regulatory documents:",
+              "Law of the Republic of Kazakhstan dated 27 July 2007 \"On Education\";",
+              "State Compulsory Standard of Higher Education (Appendix 7 to the order of the Minister of Education and Science of the Republic of Kazakhstan dated 31 October No. 604);",
+              "State Compulsory Standard of Postgraduate Education (Appendix 8 to the order of the Minister of Education and Science of the Republic of Kazakhstan dated 31 October 2018 No. 604);",
+              "Rules for organizing the educational process on credit technology of education, approved by the order of the Ministry of Education and Science of the Republic of Kazakhstan dated 20 April 2011 No. 152;",
+              "Standard rules of activities of educational organizations implementing higher and/or postgraduate education programs (Appendix 5 to the order of the Minister of Education and Science of the Republic of Kazakhstan dated 30 October 2018 No. 595);",
+              "Charter of JSC \"KBTU\"."
+            ]
+          },
+          {
+            "Title": "12. FINAL PROVISIONS",
+            "Content": [
+              "This Procedure comes into force after its approval by the Board of KBTU.",
+              "Changes and additions to this Procedure can be made by decision of the Board.",
+              "If, as a result of changes in the legislation of the Republic of Kazakhstan or the Charter of KBTU, certain norms of this Procedure come into conflict with them, until the Procedure is brought into line with the legislation and the Charter, the current regulatory legal acts of the Republic of Kazakhstan shall be followed.",
+              "Issues not regulated by this Procedure are regulated in accordance with the current legislation of the Republic of Kazakhstan and the normative documents of the University."
+            ]
+          },
+          {
+            "Title": "13. BLOCK DIAGRAM",
+            "Content": [
+              "PK: Preparation of the list (full name, contacts), collection of documents for admission and transfer to DDO",
+              "Formation of personal files and transfer to DDO",
+              "Expert support",
+              "Issuance of the order for enrollment of students/researchers",
+              "DME: Advertising and promotion",
+              "DDO: General administration: consultations of students/researchers, preparation of the submission for enrollment and transfer to OR, conclusion of contracts with students, monitoring of payments and performance, analysis of performance, preparation of information for the applicant's guide (reminder) during career guidance, issuance of a transcript (on request)",
+              "OR: Registration of students for disciplines in AIS, monitoring the timely entry of data into AIS",
+              "Faculties/Schools/Scientific and Educational Centers: Formation and approval of educational programs, training schedule, Individual Study Plans, transfer to OR and DDO, appointment of advisors, conducting orientation week (familiarization with the University, internal normative documents, schedule), organization of the educational process, provision of teaching staff, entry of student performance into AIS, formation of attendance sheets and their submission to OR for entry into AIS"
+            ]
+          }
+        ]
+      }
+      
     ]
+
   },
   {
     "id": "5",
